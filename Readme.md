@@ -13,8 +13,10 @@ Sotto il link per accedere dierettamente al canale.
   <a href="https://www.youtube.com/channel/UCbPZP1NdbHJ8ZCrzPoYSNLw">Visita il mio canale YouTube</a>
 </p>
 
-Il canale ad oggi è suddiviso in 2 sezioni, altre si aggiungeranno in seguito. Le sezioni sono le lezioni di Fisica e le Pillole di curiosità.  
+Il canale ad oggi è suddiviso in 2 sezioni:
 
+ - **Lezioni di Fisica**
+ - **Pillole di curiosità**
 
 ## Lezioni di Fisica
 
