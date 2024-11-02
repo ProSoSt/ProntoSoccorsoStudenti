@@ -1,7 +1,7 @@
 # Collegamento al canale YouTube "Pronto Soccorso Studenti"
 
 
-![Canale Youtube Pronto Soccorso Studenti](./Immagini/icona_canale.png?raw=true)(https://www.youtube.com/channel/UCbPZP1NdbHJ8ZCrzPoYSNLw)
+![Canale Youtube Pronto Soccorso Studenti]([./Immagini/icona_canale.png?raw=true](https://github.com/ProSoSt/ProntoSoccorsoStudenti/blob/main/Immagini/Logo%2001%20-%20Icona.jpg))(https://www.youtube.com/channel/UCbPZP1NdbHJ8ZCrzPoYSNLw)
 
 ![Alt text](./Immagini/icona_canale.png?raw=true)
 
