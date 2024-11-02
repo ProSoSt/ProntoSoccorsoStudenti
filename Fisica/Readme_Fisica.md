@@ -4,7 +4,7 @@
    - Corso organizzato per lezioni e per macro-argomenti. Ogni macro-argomento è suddiviso in lezioni di circa 10 minuti. Sono disponibili anche delle playlist specifiche organizzate per singolo macro-argomento.
  - **Fisica tutto d’un fiato**
    - Video completi di ogni macro-argomento in cui sono messe assieme e in modo ordinato tutte le lezioni
- - **Fisica – Flashcards**
+ - **Fisica – Flashcards (Tablet o Smartphone)**
    - Serie di video “shorts” ricavati dalle lezioni. Sono video di durata inferiore al minuto (**flashcards**) che possono essere scorsi velocemente allo scopo di facilitare il ripasso o semplicemente per curiosità. Sono disponibili anche delle playlist specifiche organizzate per singolo macro-argomento.
 
 <div align="center">
