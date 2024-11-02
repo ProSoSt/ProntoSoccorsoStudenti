@@ -3,7 +3,8 @@
 
 ![Canale Youtube Pronto Soccorso Studenti](<img src="https://github.com/ProSoSt/ProntoSoccorsoStudenti/edit/main/Immagini/icona_canale.png">)(https://www.youtube.com/channel/UCbPZP1NdbHJ8ZCrzPoYSNLw)
 
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg](https://github.com/ProSoSt/ProntoSoccorsoStudenti/edit/main/Immagini/icona_canale.png)?raw=true)
+![alt text](https://github.com/ProSoSt/ProntoSoccorsoStudenti/edit/main/Immagini/icona_canale.png?raw=true)
+
 
 
 ![alt text](<img src="https://github.com/ProSoSt/ProntoSoccorsoStudenti/edit/main/Immagini/icona_canale.png">)(https://www.youtube.com/channel/UCbPZP1NdbHJ8ZCrzPoYSNLw)
