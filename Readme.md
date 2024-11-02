@@ -14,11 +14,16 @@ Sotto il link per accedere dierettamente al canale.
 </p>
 
 
+<!--
 [![Presentazione canale Pronto Soccorso studenti](https://img.youtube.com/vi/i71C2iz52zk/maxresdefault.jpg)](https://youtu.be/i71C2iz52zk)
+--> 
+[![Presentazione canale Pronto Soccorso studenti](https://img.youtube.com/vi/i71C2iz52zk/maxresdefault.jpg)]([https://youtu.be/i71C2iz52zk](https://www.youtube.com/channel/UCbPZP1NdbHJ8ZCrzPoYSNLw))
 
+<!--
 <a href="https://youtu.be/i71C2iz52zk">
   <img src="https://img.youtube.com/vi/i71C2iz52zk/maxresdefault.jpg" alt="Presentazione canale Pronto Soccorso studenti" width="720">
 </a>
+--> 
 
 
 Il canale ad oggi è suddiviso in 2 sezioni:
