@@ -1,4 +1,9 @@
 
+<div align="center">
+  <a href="https://www.youtube.com/watch?v=brGLhdNkYBs&list=PL8nSPrZb28LQMWy1P7IlFdAgczNo_1CSp">
+    <img src="https://i.ytimg.com/vi_webp/PL8nSPrZb28LQMWy1P7IlFdAgczNo_1CSp/maxresdefault.webp" alt="Nome della tua playlist">
+  </a>
+</div>
 
 
 <div align="center">
