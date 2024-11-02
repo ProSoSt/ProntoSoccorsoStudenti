@@ -19,3 +19,19 @@
   </a>  
 </div>
 
+<div align="center">
+  <a href="https://www.youtube.com/watch?v=brGLhdNkYBs&list=PL8nSPrZb28LRmwCbmUB8t3dEBmuw6-zNt&pp=gAQBiAQB">    
+    <img src="https://i.ytimg.com/pl_c/PL8nSPrZb28LRmwCbmUB8t3dEBmuw6-zNt/studio_square_thumbnail.jpg?sqp=COrombkG-oaymwEICPABEPABSFqi85f_AwYIseHquAY=&rs=AOn4CLDh0Mbg0v0EPUigcAC8YgYe0ZCHaQ" alt="Grandezze Fisiche e Sistema Internazionale di Unità di Misura">
+  </a>  
+  <a href="https://youtu.be/K4gf_YanKFk?list=PL8nSPrZb28LTqfTAoRUl4sg6rCbrL2gwE">    
+    <img src="https://img.youtube.com/vi/i71C2iz52zk/maxresdefault.jpg" alt="Tutto d'un fiato: Grandezze Fisiche e Sistema Internazionale di Unità di Misura">
+  </a> 
+  <a href="https://www.youtube.com/watch?v=hXjhcffVRTk&list=PL8nSPrZb28LTtY5gd9s1N1nzhgesyi0BC&pp=gAQBiAQB">    
+    <img src="https://i.ytimg.com/pl_c/PL8nSPrZb28LTtY5gd9s1N1nzhgesyi0BC/studio_square_thumbnail.jpg?sqp=CLe2mrkG-oaymwEICPABEPABSFqi85f_AwYI8N_quAY=&rs=AOn4CLD3c5LfZMIe1RhdcoQeqXJugickKQ" alt="Flashcards Corso di Fisica">
+  </a>  
+</div>
+
+
+
+
+[![Presentazione canale Pronto Soccorso studenti](https://img.youtube.com/vi/i71C2iz52zk/maxresdefault.jpg)](https://www.youtube.com/channel/UCbPZP1NdbHJ8ZCrzPoYSNLw)
