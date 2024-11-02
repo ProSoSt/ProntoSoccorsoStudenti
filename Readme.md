@@ -55,7 +55,7 @@ La prima sezione è destinata alle lezioni di Fisica per le scuole superiori. Pe
      - **Le Forze**
  - **Fisica tutto d’un fiato**
    - Video completi di ogni macro-argomento in cui sono messe assieme e in modo ordinato tutte le lezioni
- - **Fisica – Flashcards**
+ - **Fisica – Flashcards (Tablet o Smartphone)**
    - Serie di video “shorts” ricavati dalle lezioni. Sono video di durata inferiore al minuto (**flashcards**) che possono essere scorsi velocemente allo scopo di facilitare il ripasso o semplicemente per curiosità. Sono disponibili anche delle playlist organizzate per singolo macro-argomento:
      - **Grandezze Fisiche e Sistema Internazionale di Unità di Misura**
      - **Misure di Grandezze Fisiche**
@@ -66,5 +66,5 @@ La prima sezione è destinata alle lezioni di Fisica per le scuole superiori. Pe
 
 La seconda sezione è quella delle “Pillole di curiosità”. Si tratta di brevi video in cui condivido con voi alcune curiosità, in genere di carattere scientifico, ma non solo. Per questa materia sono disponibili 2 playlists:  
  - **Pillole di Curiosità**
- - **Pillole di Curiosità – Flashcards**
+ - **Pillole di Curiosità – Flashcards (Tablet o Smartphone)**
    - Serie di video “shorts” ricavati dalle Pillole di Curiosità. Sono video di durata inferiore al minuto (**flashcards**) che possono essere scorsi velocemente
