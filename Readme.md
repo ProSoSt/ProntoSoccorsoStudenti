@@ -21,16 +21,16 @@ Il canale ad oggi è suddiviso in 2 sezioni, altre si aggiungeranno in seguito. 
 La prima sezione è destinata alle lezioni di Fisica per le scuole superiori. Per questa materia sono disponibili diverse playlists:  
  
  - La playlist **Corso di Fisica** contiene un corso organizzato per lezioni e per macro-argomenti. Ogni macro-argomento è suddiviso in lezioni di circa 10 minuti. Le lezioni offrono una teoria semplice assieme ad esempi ed esercizi per facilitare la comprensione degli argomenti. I video sono organizzati in capitoli per permettere di rivedere o saltare determinati argomenti. Sono inoltre disponibili delle playlist organizzate per singolo argomento:
-  - **Grandezze Fisiche e Sistema Internazionale di Unità di Misura**
-  - **Misure di Grandezze Fisiche**
-  - **I Vettori e gli Scalari**
-  - **Le Forze**
+   - **Grandezze Fisiche e Sistema Internazionale di Unità di Misura**
+   - **Misure di Grandezze Fisiche**
+   - **I Vettori e gli Scalari**
+   - **Le Forze**
  - La playlist **Fisica tutto d’un fiato** contiene i video completi di ogni macro-argomento in cui sono messe assieme tutte le lezioni. In questo modo siete sicuri di vedere nell’ordine corretto i vari video e di non perdere nessuna lezione. Anche questi video sono organizzati in capitoli per permettere di rivedere o saltare determinate lezioni;
  - La playlist **Fisica – Flashcards** è composta da una serie di video “shorts” ricavati dalle lezioni. Sono video di durata inferiore al minuto che possono essere scorsi velocemente. Lo scopo è quello di scorrere con velocità un argomento per ripasso o semplicemente per curiosità. I video possono essere anche riprodotti in modo casuale come delle vere e proprie **flashcards**. Sono inoltre disponibili delle playlist organizzate per singolo argomento:
-  - **Grandezze Fisiche e Sistema Internazionale di Unità di Misura**
-  - **Misure di Grandezze Fisiche**
-  - **I Vettori e gli Scalari**
-  - **Le Forze**
+   - **Grandezze Fisiche e Sistema Internazionale di Unità di Misura**
+   - **Misure di Grandezze Fisiche**
+   - **I Vettori e gli Scalari**
+   - **Le Forze**
 
 ## Pillole di Curiosità
 
