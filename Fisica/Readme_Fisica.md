@@ -2,8 +2,8 @@
 
 
 <div align="center">
-  <a href="https://www.youtube.com/watch?v=brGLhdNkYBs&list=PL8nSPrZb28LQMWy1P7IlFdAgczNo_1CSp&pp=gAQBiAQB">
-    <img src="https://img.youtube.com/vi/gAQBiAQB/0.jpg" alt="Nome della tua playlist">
+  <a href="https://www.youtube.com/watch?v=brGLhdNkYBs&list=PL8nSPrZb28LQMWy1P7IlFdAgczNo_1CSp">
+    <img src="https://img.youtube.com/vi/PL8nSPrZb28LQMWy1P7IlFdAgczNo_1CSp/0.jpg" alt="Nome della tua playlist">
   </a>
 </div>
 
