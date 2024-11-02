@@ -10,7 +10,7 @@ Sotto il link per accedere dierettamente al canale.
 </p>
 
 <p align="center">
-  <a href="https://www.youtube.com/channel/UCbPZP1NdbHJ8ZCrzPoYSNLw">Visita il mio canale YouTube</a>
+  <a href="https://www.youtube.com/channel/UCbPZP1NdbHJ8ZCrzPoYSNLw">Visita il canale Pronto Soccorso Studenti</a>
 </p>
 
 Il canale ad oggi è suddiviso in 2 sezioni:
