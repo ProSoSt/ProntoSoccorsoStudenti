@@ -13,6 +13,8 @@ Sotto il link per accedere dierettamente al canale.
   <a href="https://www.youtube.com/channel/UCbPZP1NdbHJ8ZCrzPoYSNLw">Visita il canale Pronto Soccorso Studenti</a>
 </p>
 
+[Guarda il video su YouTube]([https://www.youtube.com/watch?v=ID_DEL_VIDEO](https://youtu.be/i71C2iz52zk))
+
 Il canale ad oggi è suddiviso in 2 sezioni:
 
  - **Lezioni di Fisica**
