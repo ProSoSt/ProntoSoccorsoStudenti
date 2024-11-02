@@ -17,7 +17,7 @@ Sotto il link per accedere dierettamente al canale.
 <!--
 [![Presentazione canale Pronto Soccorso studenti](https://img.youtube.com/vi/i71C2iz52zk/maxresdefault.jpg)](https://youtu.be/i71C2iz52zk)
 --> 
-[![Presentazione canale Pronto Soccorso studenti](https://img.youtube.com/vi/i71C2iz52zk/maxresdefault.jpg)]([https://youtu.be/i71C2iz52zk](https://www.youtube.com/channel/UCbPZP1NdbHJ8ZCrzPoYSNLw))
+[![Presentazione canale Pronto Soccorso studenti](https://img.youtube.com/vi/i71C2iz52zk/maxresdefault.jpg)](https://www.youtube.com/channel/UCbPZP1NdbHJ8ZCrzPoYSNLw)
 
 <!--
 <a href="https://youtu.be/i71C2iz52zk">
