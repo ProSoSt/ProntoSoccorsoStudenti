@@ -3,7 +3,7 @@
 
 ![Canale Youtube Pronto Soccorso Studenti](./Immagini/icona_canale.png?raw=true)(https://www.youtube.com/channel/UCbPZP1NdbHJ8ZCrzPoYSNLw)
 
-![Alt text](./Immagini/icona_canale.png?raw=true "Title")
+![Alt text](./Immagini/icona_canale.png?raw=true)
 
 ![alt text](https://github.com/ProSoSt/ProntoSoccorsoStudenti/edit/main/Immagini/icona_canale.png?raw=true)
 
