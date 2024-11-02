@@ -35,7 +35,7 @@ Il canale ad oggi è suddiviso in 2 sezioni:
 [Lezioni di Fisica](Fisica/Readme_Fisica.md)
 -->
 [![Lezioni di Fisica](./Immagini/Corso_di_Fisica_256.jpg)](Fisica/Readme_Fisica.md)
-[![Lezioni di Fisica](./Immagini/Pillole_di_Curiosita_256.jpg)](Pillole_Curiosita/Readme_Pillole_Curiosita.md)
+[![Lezioni di Fisica](./Immagini/Pillole_di_Curiosita_256.jpg)](Pillole_di_Curiosita/Readme_Pillole_di_Curiosita.md)
 
 ## Lezioni di Fisica
 
