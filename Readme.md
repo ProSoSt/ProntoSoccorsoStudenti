@@ -1,4 +1,4 @@
-# "Pronto Soccorso Studenti"
+# Pronto Soccorso Studenti
 Benvenuti nel repository del canale Youtube Pronto Soccorso Studenti.
 Sotto il link per accedere dierettamente al canale
 
