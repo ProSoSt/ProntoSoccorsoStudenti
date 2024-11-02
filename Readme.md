@@ -31,6 +31,8 @@ Il canale ad oggi è suddiviso in 2 sezioni:
  - **Lezioni di Fisica**
  - **Pillole di curiosità**
 
+[Lezioni di Fisica](Fisica/Readme_Fisica.md)
+
 ## Lezioni di Fisica
 
 La prima sezione è destinata alle lezioni di Fisica per le scuole superiori. Per questa materia sono disponibili diverse playlists:  
