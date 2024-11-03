@@ -47,6 +47,14 @@
   </a> 
 </div>
 
+## **Playlist e Video – Errori di Misura, Stima dell’Errore, Propagazione Errore e Cifre Significative**
+
+<div align="center">
+  <a href="https://www.youtube.com/watch?v=RtA-prAJenk">    
+    <img src="https://i.ytimg.com/vi/RtA-prAJenk/maxresdefault.jpg" alt="Tutto d’un fiato: Misure, Errori di Misura, Stima dell’Errore, Propagazione Errore e Cifre Significative" height="256">
+  </a> 
+</div>
+
 <div align="center">
   <a href="https://www.youtube.com/watch?v=CPrec2EkMko">    
     <img src="https://i.ytimg.com/vi/CPrec2EkMko/maxresdefault.jpg" alt="Misure ed Errori di Misura" height="256">
@@ -71,6 +79,20 @@
   </a> 
 </div>
 
+## **Playlist e Video – Rappresentazione Dati, Relazioni tra Grandezze, Grafici con Errori, Grafici**
+
+<div align="center">
+  <a href="https://www.youtube.com/watch?v=8T8_HwLVZdc">    
+    <img src="https://i.ytimg.com/vi/8T8_HwLVZdc/maxresdefault.jpg" alt="Tutto d’un fiato: Rappresentazione Dati, Relazioni tra Grandezze, Grafici con Errori, Grafici" height="256">
+  </a> 
+</div>
+
+<div align="center">
+  <a href="https://www.youtube.com/watch?v=WMurstD7tW0">    
+    <img src="https://i.ytimg.com/vi/WMurstD7tW0/maxresdefault.jpg" alt="Tutto d’un fiato: I Vettori, Somma, Differenza e Scomposizione, Prodotto Scalare e Vettoriale" height="256">
+  </a> 
+</div>
+
 <div align="center">
   <a href="https://www.youtube.com/watch?v=c_7_ytuCSiE">    
     <img src="https://i.ytimg.com/vi/c_7_ytuCSiE/maxresdefault.jpg" alt="Rappresentazione Dati e Relazioni tra Grandezze Fisiche" height="256">
@@ -80,6 +102,13 @@
 <div align="center">
   <a href="https://www.youtube.com/watch?v=QbkZ9WqA3vU">    
     <img src="https://i.ytimg.com/vi/QbkZ9WqA3vU/maxresdefault.jpg" alt="Grafici di Misure con Errori e con Relazione Lineare, Quadratica e Inversa" height="256">
+  </a> 
+</div>
+
+## **Playlist e Video – I Vettori, Somma, Differenza e Scomposizione, Prodotto Scalare e Vettoriale**
+<div align="center">
+  <a href="https://www.youtube.com/watch?v=WMurstD7tW0">    
+    <img src="https://i.ytimg.com/vi/WMurstD7tW0/maxresdefault.jpg" alt="Tutto d’un fiato: I Vettori, Somma, Differenza e Scomposizione, Prodotto Scalare e Vettoriale" height="256">
   </a> 
 </div>
 
