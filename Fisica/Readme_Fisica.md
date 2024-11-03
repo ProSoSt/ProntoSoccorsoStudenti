@@ -35,3 +35,38 @@
   </a>  
 </div>
 
+<div align="center">
+  <a href="https://www.youtube.com/watch?v=brGLhdNkYBs">    
+    <img src="https://i.ytimg.com/vi/brGLhdNkYBs/maxresdefault.jpg" alt="Grandezze Fisiche e Sistema Internazionale di Unità di Misura – Parte 1" height="256">
+  </a> 
+</div>
+
+<div align="center">
+  <a href="https://www.youtube.com/watch?v=Ob7WPqHzrBc">    
+    <img src="https://i.ytimg.com/vi/Ob7WPqHzrBc/maxresdefault.jpg" alt="Grandezze Fisiche e Sistema Internazionale di unità di misura – Parte 2" height="256">
+  </a> 
+</div>
+
+<div align="center">
+  <a href="https://www.youtube.com/watch?v=CPrec2EkMko">    
+    <img src="https://i.ytimg.com/vi/CPrec2EkMko/maxresdefault.jpg" alt="Misure ed Errori di Misura" height="256">
+  </a> 
+</div>
+
+<div align="center">
+  <a href="https://www.youtube.com/watch?v=Ugkprq0WAdI">    
+    <img src="https://i.ytimg.com/vi/Ugkprq0WAdI/maxresdefault.jpg" alt="Misura e Stima dell'errore" height="256">
+  </a> 
+</div>
+
+<div align="center">
+  <a href="https://www.youtube.com/watch?v=7W3Qw4GkT8Q">    
+    <img src="https://i.ytimg.com/vi/7W3Qw4GkT8Q/maxresdefault.jpg" alt="Propagazione dell'Errore" height="256">
+  </a> 
+</div>
+
+<div align="center">
+  <a href="https://www.youtube.com/watch?v=-UpneqYL5oM">    
+    <img src="https://i.ytimg.com/vi/-UpneqYL5oM/maxresdefault.jpg" alt="Cifre Significative e Arrotondamento" height="256">
+  </a> 
+</div>
