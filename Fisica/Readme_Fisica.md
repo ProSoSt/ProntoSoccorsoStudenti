@@ -70,3 +70,87 @@
     <img src="https://i.ytimg.com/vi/-UpneqYL5oM/maxresdefault.jpg" alt="Cifre Significative e Arrotondamento" height="256">
   </a> 
 </div>
+
+<div align="center">
+  <a href="https://www.youtube.com/watch?v=c_7_ytuCSiE">    
+    <img src="https://i.ytimg.com/vi/c_7_ytuCSiE/maxresdefault.jpg" alt="Rappresentazione Dati e Relazioni tra Grandezze Fisiche" height="256">
+  </a> 
+</div>
+
+<div align="center">
+  <a href="https://www.youtube.com/watch?v=QbkZ9WqA3vU">    
+    <img src="https://i.ytimg.com/vi/QbkZ9WqA3vU/maxresdefault.jpg" alt="Grafici di Misure con Errori e con Relazione Lineare, Quadratica e Inversa" height="256">
+  </a> 
+</div>
+
+<div align="center">
+  <a href="https://www.youtube.com/watch?v=KOYrSSAgIw4">    
+    <img src="https://i.ytimg.com/vi/KOYrSSAgIw4/maxresdefault.jpg" alt="Grandezze Scalari e Grandezze Vettoriali - Spostamento e somma di spostamenti" height="256">
+  </a> 
+</div>
+
+<div align="center">
+  <a href="https://www.youtube.com/watch?v=0fM-UjnCQsw">    
+    <img src="https://i.ytimg.com/vi/0fM-UjnCQsw/maxresdefault.jpg" alt="Operazioni con i Vettori – Somma, differenza e scomposizione" height="256">
+  </a> 
+</div>
+
+<div align="center">
+  <a href="https://www.youtube.com/watch?v=cnZofYzAsfw">    
+    <img src="https://i.ytimg.com/vi/cnZofYzAsfw/maxresdefault.jpg" alt="Operazioni con i Vettori – Scomposizione con seno, coseno e tangente" height="256">
+  </a> 
+</div>
+
+<div align="center">
+  <a href="https://www.youtube.com/watch?v=hfMoMrOyvI0">    
+    <img src="https://i.ytimg.com/vi/hfMoMrOyvI0/maxresdefault.jpg" alt="Operazioni con i Vettori – Prodotto Scalare e Prodotto Vettoriale" height="256">
+  </a> 
+</div>
+
+<div align="center">
+  <a href="https://www.youtube.com/watch?v=0XSWREt-ylI">    
+    <img src="https://i.ytimg.com/vi/0XSWREt-ylI/maxresdefault.jpg" alt="Introduzione alle Forze" height="256">
+  </a> 
+</div>
+
+<div align="center">
+  <a href="https://www.youtube.com/watch?v=kiTsBvTzeuE">    
+    <img src="https://i.ytimg.com/vi/kiTsBvTzeuE/maxresdefault.jpg" alt="Esercizi introduttivi sulle forze – Trigonometria e Teorema di Pitagora" height="256">
+  </a> 
+</div>
+
+<div align="center">
+  <a href="https://www.youtube.com/watch?v=PbkxstNyq4I">    
+    <img src="https://i.ytimg.com/vi/PbkxstNyq4I/maxresdefault.jpg" alt="Esercizi introduttivi sulle forze 2 – Esercizi avanzati con formule inverse" height="256">
+  </a> 
+</div>
+
+<div align="center">
+  <a href="https://www.youtube.com/watch?v=hD0RnAXZDnc">    
+    <img src="https://i.ytimg.com/vi/hD0RnAXZDnc/maxresdefault.jpg" alt="La Forza Peso e la legge di Gravitazione Universale" height="256">
+  </a> 
+</div>
+
+<div align="center">
+  <a href="https://www.youtube.com/watch?v=LCPqj-CM3CM">    
+    <img src="https://i.ytimg.com/vi/LCPqj-CM3CM/maxresdefault.jpg" alt="La Forza Peso e il Piano Inclinato" height="256">
+  </a> 
+</div>
+
+<div align="center">
+  <a href="https://www.youtube.com/watch?v=g7-Kpa6110k">    
+    <img src="https://i.ytimg.com/vi/g7-Kpa6110k/maxresdefault.jpg" alt="La Forza Elastica - La Legge di Hooke ed Esercizi" height="256">
+  </a> 
+</div>
+
+<div align="center">
+  <a href="https://www.youtube.com/watch?v=0L1Gik7MaO4">    
+    <img src="https://i.ytimg.com/vi/0L1Gik7MaO4/maxresdefault.jpg" alt="La Reazione Normale e la Tensione della Fune – Le Forze Vincolari con Esercizi" height="256">
+  </a> 
+</div>
+
+<div align="center">
+  <a href="https://www.youtube.com/watch?v=NLsTGLTJmWc">    
+    <img src="https://i.ytimg.com/vi/NLsTGLTJmWc/maxresdefault.jpg" alt="Le forza d’Attrito Statica, Dinamica e l’Attrito Volvente – Teoria con Esercizi" height="256">
+  </a> 
+</div>
