@@ -25,7 +25,7 @@
 
 <div align="center">
   <a href="https://www.youtube.com/watch?v=brGLhdNkYBs&list=PL8nSPrZb28LRmwCbmUB8t3dEBmuw6-zNt&pp=gAQBiAQB">    
-    <img src="https://i.ytimg.com/pl_c/PL8nSPrZb28LRmwCbmUB8t3dEBmuw6-zNt/studio_square_thumbnail.jpg?sqp=COrombkG-oaymwEICPABEPABSFqi85f_AwYIseHquAY=&rs=AOn4CLDh0Mbg0v0EPUigcAC8YgYe0ZCHaQ" alt="Grandezze Fisiche e Sistema Internazionale di Unità di Misura">
+    <img src="./Immagini/10_Grandezze_Fisiche_e_Sistema_Internazionale_di_Unita_di_Misura.jpg" alt="Grandezze Fisiche e Sistema Internazionale di Unità di Misura">
   </a>  
   <a href="https://www.youtube.com/watch?v=K4gf_YanKFk">    
     <img src="https://img.youtube.com/vi/K4gf_YanKFk/maxresdefault.jpg" alt="Tutto d'un fiato: Grandezze Fisiche e Sistema Internazionale di Unità di Misura" height="256">
