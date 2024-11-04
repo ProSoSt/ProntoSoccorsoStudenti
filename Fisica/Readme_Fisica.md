@@ -24,7 +24,7 @@
 ## **Playlist e Video – Grandezze Fisiche e Sistema Internazionale di Unità di Misura**
 
 <div align="center">
-  <a href="https://www.youtube.com/playlist?list=PL8nSPrZb28LRmwCbmUB8t3dEBmuw6-zNt">    
+  <a href="https://www.youtube.com/watch?v=brGLhdNkYBs&list=PL8nSPrZb28LRmwCbmUB8t3dEBmuw6-zNt&index=1&t=10s">    
     <img src="./Immagini/10_Grandezze_Fisiche_e_Sistema_Internazionale_di_Unita_di_Misura.jpg" alt="Grandezze Fisiche e Sistema Internazionale di Unità di Misura">
   </a>  
   <a href="https://www.youtube.com/watch?v=K4gf_YanKFk">    
