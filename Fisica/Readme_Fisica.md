@@ -10,7 +10,7 @@
 ## **Playlist complete**
 
 <div align="center">
-  <a href="https://www.youtube.com/playlist?list=PL8nSPrZb28LQMWy1P7IlFdAgczNo_1CSp">    
+  <a href="https://www.youtube.com/watch?v=brGLhdNkYBs&list=PL8nSPrZb28LQMWy1P7IlFdAgczNo_1CSp&index=1&t=3s">    
     <img src="./Immagini/Corso_di_Fisica_256.jpg" alt="Corso di Fisica">
   </a>     
   <a href="https://www.youtube.com/playlist?list=PL8nSPrZb28LTqfTAoRUl4sg6rCbrL2gwE">    
