@@ -13,10 +13,10 @@
   <a href="https://www.youtube.com/watch?v=brGLhdNkYBs&list=PL8nSPrZb28LQMWy1P7IlFdAgczNo_1CSp">    
     <img src="./Immagini/Corso_di_Fisica_256.jpg" alt="Corso di Fisica">
   </a>     
-  <a href="https://www.youtube.com/watch?v=K4gf_YanKFk&list=PL8nSPrZb28LTqfTAoRUl4sg6rCbrL2gwE&pp=gAQBiAQB">    
+  <a href="https://www.youtube.com/playlist?list=PL8nSPrZb28LTqfTAoRUl4sg6rCbrL2gwE">    
     <img src="./Immagini/Fisica_tutto_ d_un_fiato_256.jpg" alt="Fisica tutto d'un fiato">
   </a> 
-  <a href="https://www.youtube.com/watch?v=3nTaaoSaLow&list=PL8nSPrZb28LQ7NziB90W2tDkpI6NlpMVI&pp=gAQBiAQB">    
+  <a href="https://www.youtube.com/playlist?list=PL8nSPrZb28LQ7NziB90W2tDkpI6NlpMVI">    
     <img src="./Immagini/Fisica_Shorts_256.jpg" alt="Flashcards Corso di Fisica">
   </a>  
 </div>
@@ -24,14 +24,14 @@
 ## **Playlist e Video – Grandezze Fisiche e Sistema Internazionale di Unità di Misura**
 
 <div align="center">
-  <a href="https://www.youtube.com/watch?v=brGLhdNkYBs&list=PL8nSPrZb28LRmwCbmUB8t3dEBmuw6-zNt&pp=gAQBiAQB">    
+  <a href="https://www.youtube.com/playlist?list=PL8nSPrZb28LRmwCbmUB8t3dEBmuw6-zNt">    
     <img src="./Immagini/10_Grandezze_Fisiche_e_Sistema_Internazionale_di_Unita_di_Misura.jpg" alt="Grandezze Fisiche e Sistema Internazionale di Unità di Misura">
   </a>  
   <a href="https://www.youtube.com/watch?v=K4gf_YanKFk">    
     <img src="https://img.youtube.com/vi/K4gf_YanKFk/maxresdefault.jpg" alt="Tutto d'un fiato: Grandezze Fisiche e Sistema Internazionale di Unità di Misura" height="256">
   </a> 
-  <a href="https://www.youtube.com/watch?v=hXjhcffVRTk&list=PL8nSPrZb28LTtY5gd9s1N1nzhgesyi0BC&pp=gAQBiAQB">    
-    <img src="./Immagini/10T_Grandezze_Fisiche_e_Sistema_Internazionale_di_Unita_di_Misura.jpg" alt="Flashcards Corso di Fisica">
+  <a href="https://www.youtube.com/playlist?list=PL8nSPrZb28LTtY5gd9s1N1nzhgesyi0BC">    
+    <img src="./Immagini/10T_Grandezze_Fisiche_e_Sistema_Internazionale_di_Unita_di_Misura.jpg" alt="Flashcards Shorts - Grandezze Fisiche e Sistema Internazionale di Unità di Misura">
   </a>  
 </div>
 
@@ -48,6 +48,35 @@
 </div>
 
 ## **Playlist e Video – Errori di Misura, Stima dell’Errore, Propagazione Errore e Cifre Significative**
+
+<div align="center">
+  <a href="https://www.youtube.com/watch?v=CPrec2EkMko&list=PL8nSPrZb28LTSYMCrxtuUlBmnU7W6B5aJ">    
+    <img src="./Immagini/10_Grandezze_Fisiche_e_Sistema_Internazionale_di_Unita_di_Misura.jpg" alt="Misure di Grandezze Fisiche">
+  </a>  
+  <a href="https://www.youtube.com/watch?v=RtA-prAJenk">    
+    <img src="https://i.ytimg.com/vi/RtA-prAJenk/maxresdefault.jpg" alt="Tutto d’un fiato: Misure, Errori di Misura, Stima dell’Errore, Propagazione Errore e Cifre Significative" height="256">
+  </a> 
+  <a href="https://www.youtube.com/playlist?list=PL8nSPrZb28LTKt3ZYnuQkcVeyzxX58WSU">    
+    <img src="./Immagini/10T_Grandezze_Fisiche_e_Sistema_Internazionale_di_Unita_di_Misura.jpg" alt="Flashcards Shorts - Misure di Grandezze Fisiche">
+  </a>  
+</div>
+
+
+
+
+
+
+
+
+Fisica 20 - Misure di Grandezze Fisiche	https://www.youtube.com/playlist?list=PL8nSPrZb28LTSYMCrxtuUlBmnU7W6B5aJ
+![image](https://github.com/user-attachments/assets/061a2272-2cb1-4aa4-b8eb-bb7028ab623b)
+
+
+
+
+
+
+
 
 <div align="center">
   <a href="https://www.youtube.com/watch?v=RtA-prAJenk">    
