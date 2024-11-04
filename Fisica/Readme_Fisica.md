@@ -88,12 +88,6 @@
 </div>
 
 <div align="center">
-  <a href="https://www.youtube.com/watch?v=WMurstD7tW0">    
-    <img src="https://i.ytimg.com/vi/WMurstD7tW0/maxresdefault.jpg" alt="Tutto d’un fiato: I Vettori, Somma, Differenza e Scomposizione, Prodotto Scalare e Vettoriale" height="256">
-  </a> 
-</div>
-
-<div align="center">
   <a href="https://www.youtube.com/watch?v=c_7_ytuCSiE">    
     <img src="https://i.ytimg.com/vi/c_7_ytuCSiE/maxresdefault.jpg" alt="Rappresentazione Dati e Relazioni tra Grandezze Fisiche" height="256">
   </a> 
