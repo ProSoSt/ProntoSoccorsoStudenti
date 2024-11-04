@@ -61,29 +61,6 @@
   </a>  
 </div>
 
-
-
-
-
-
-
-
-Fisica 20 - Misure di Grandezze Fisiche	https://www.youtube.com/playlist?list=PL8nSPrZb28LTSYMCrxtuUlBmnU7W6B5aJ
-![image](https://github.com/user-attachments/assets/061a2272-2cb1-4aa4-b8eb-bb7028ab623b)
-
-
-
-
-
-
-
-
-<div align="center">
-  <a href="https://www.youtube.com/watch?v=RtA-prAJenk">    
-    <img src="https://i.ytimg.com/vi/RtA-prAJenk/maxresdefault.jpg" alt="Tutto d’un fiato: Misure, Errori di Misura, Stima dell’Errore, Propagazione Errore e Cifre Significative" height="256">
-  </a> 
-</div>
-
 <div align="center">
   <a href="https://www.youtube.com/watch?v=CPrec2EkMko">    
     <img src="https://i.ytimg.com/vi/CPrec2EkMko/maxresdefault.jpg" alt="Misure ed Errori di Misura" height="256">
