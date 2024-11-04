@@ -13,7 +13,7 @@
   <a href="https://www.youtube.com/watch?v=brGLhdNkYBs&list=PL8nSPrZb28LQMWy1P7IlFdAgczNo_1CSp&index=1&t=6s">    
     <img src="./Immagini/Corso_di_Fisica_256.jpg" alt="Corso di Fisica">
   </a>     
-  <a href="https://www.youtube.com/playlist?list=PL8nSPrZb28LTqfTAoRUl4sg6rCbrL2gwE">    
+  <a href="https://www.youtube.com/watch?v=K4gf_YanKFk&list=PL8nSPrZb28LTqfTAoRUl4sg6rCbrL2gwE&index=1&t=5s">    
     <img src="./Immagini/Fisica_tutto_ d_un_fiato_256.jpg" alt="Fisica tutto d'un fiato">
   </a> 
   <a href="https://www.youtube.com/playlist?list=PL8nSPrZb28LQ7NziB90W2tDkpI6NlpMVI">    
