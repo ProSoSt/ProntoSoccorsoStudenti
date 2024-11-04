@@ -51,13 +51,13 @@
 
 <div align="center">
   <a href="https://www.youtube.com/watch?v=CPrec2EkMko&list=PL8nSPrZb28LTSYMCrxtuUlBmnU7W6B5aJ">    
-    <img src="./Immagini/10_Grandezze_Fisiche_e_Sistema_Internazionale_di_Unita_di_Misura.jpg" alt="Misure di Grandezze Fisiche">
+    <img src="./Immagini/20_Misure_di_Grandezze_Fisiche.jpg" alt="Misure di Grandezze Fisiche">
   </a>  
   <a href="https://www.youtube.com/watch?v=RtA-prAJenk">    
     <img src="https://i.ytimg.com/vi/RtA-prAJenk/maxresdefault.jpg" alt="Tutto d’un fiato: Misure, Errori di Misura, Stima dell’Errore, Propagazione Errore e Cifre Significative" height="256">
   </a> 
   <a href="https://www.youtube.com/playlist?list=PL8nSPrZb28LTKt3ZYnuQkcVeyzxX58WSU">    
-    <img src="./Immagini/10T_Grandezze_Fisiche_e_Sistema_Internazionale_di_Unita_di_Misura.jpg" alt="Flashcards Shorts - Misure di Grandezze Fisiche">
+    <img src="./Immagini/20T_Misure_di_Grandezze_Fisiche.jpg" alt="Flashcards Shorts - Misure di Grandezze Fisiche">
   </a>  
 </div>
 
