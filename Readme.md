@@ -36,7 +36,7 @@ Il canale ad oggi è suddiviso in 2 sezioni:
 -->
 
 <div align="center">
-  <a href="Fisica/Readme_Fisica.md">
+  <a href="Fisica/Readme.md">
     <img src="./Immagini/Corso_di_Fisica_256.jpg" alt="Lezioni di Fisica">
   </a>
   <a href="Pillole_di_Curiosita/Readme_Pillole_di_Curiosita.md">
