@@ -106,6 +106,7 @@
 </div>
 
 ## **Playlist e Video – I Vettori, Somma, Differenza e Scomposizione, Prodotto Scalare e Vettoriale**
+
 <div align="center">
   <a href="https://www.youtube.com/watch?v=WMurstD7tW0">    
     <img src="https://i.ytimg.com/vi/WMurstD7tW0/maxresdefault.jpg" alt="Tutto d’un fiato: I Vettori, Somma, Differenza e Scomposizione, Prodotto Scalare e Vettoriale" height="256">
