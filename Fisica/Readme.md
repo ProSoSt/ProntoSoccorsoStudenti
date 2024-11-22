@@ -137,6 +137,16 @@
   </a> 
 </div>
 
+## **Playlist e Video – Le Forze, Somma, Differenza e Scomposizione, Prodotto Scalare e Vettoriale**
+
+<!---
+<div align="center">
+  <a href="https://www.youtube.com/watch?v=WMurstD7tW0">    
+    <img src="https://i.ytimg.com/vi/WMurstD7tW0/maxresdefault.jpg" alt="Tutto d’un fiato: I Vettori, Somma, Differenza e Scomposizione, Prodotto Scalare e Vettoriale" height="256">
+  </a> 
+</div>
+-->
+
 <div align="center">
   <a href="https://www.youtube.com/watch?v=0XSWREt-ylI">    
     <img src="https://i.ytimg.com/vi/0XSWREt-ylI/maxresdefault.jpg" alt="Introduzione alle Forze" height="256">
@@ -182,5 +192,13 @@
 <div align="center">
   <a href="https://www.youtube.com/watch?v=NLsTGLTJmWc">    
     <img src="https://i.ytimg.com/vi/NLsTGLTJmWc/maxresdefault.jpg" alt="Le forza d’Attrito Statica, Dinamica e l’Attrito Volvente – Teoria con Esercizi" height="256">
+  </a> 
+</div>
+
+
+
+<div align="center">
+  <a href="https://www.youtube.com/watch?v=550byhfPJok">    
+    <img src="https://i.ytimg.com/vi/550byhfPJok/maxresdefault.jpg" alt="Esercizi sulle Forze con Attriti, Molle, Piano Inclinato, Piano Verticale e Molle in Serie" height="256">
   </a> 
 </div>
