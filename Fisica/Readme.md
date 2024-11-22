@@ -88,6 +88,9 @@
 ## **Playlist e Video – Rappresentazione Dati, Relazioni tra Grandezze, Grafici con Errori, Grafici**
 
 <div align="center">
+  <a href="https://www.youtube.com/watch?v=QbkZ9WqA3vU&list=PL8nSPrZb28LR9DrDviCuI4BKIAMh6zCBI&pp">       
+    <img src="./Immagini/30_Rappresentazione_Grandezze_Fisiche.jpg" alt="Rappresentazione Grandezze Fisiche">
+  </a>   
   <a href="https://www.youtube.com/watch?v=8T8_HwLVZdc">    
     <img src="https://i.ytimg.com/vi/8T8_HwLVZdc/maxresdefault.jpg" alt="Tutto d’un fiato: Rappresentazione Dati, Relazioni tra Grandezze, Grafici con Errori, Grafici" height="256">
   </a> 
