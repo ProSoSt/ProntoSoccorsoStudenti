@@ -1,6 +1,6 @@
 # Pronto Soccorso Studenti
 Benvenuti e benvenute  nel repository del canale di “Pronto soccorso studenti”, il canale tematico pensato per fornire supporto agli studenti in merito alle materie scientifiche ma non solo.   
-Qui troverete i link al canale ed ai video caricati su youtube, organizzati in modo semplice e funzionale.  
+Qui troverete i link al canale ed ai video caricati su Youtube, organizzati in modo semplice e funzionale.  
 Sotto il link per accedere dierettamente al canale.  
 
 <p align="center">
@@ -10,7 +10,7 @@ Sotto il link per accedere dierettamente al canale.
 </p>
 
 <p align="center">
-  <a href="https://www.youtube.com/channel/UCbPZP1NdbHJ8ZCrzPoYSNLw">Visita il canale Pronto Soccorso Studenti</a>
+  <a href="https://www.youtube.com/channel/UCbPZP1NdbHJ8ZCrzPoYSNLw">Visita il canale Youtube Pronto Soccorso Studenti</a>
 </p>
 
 
