@@ -3,9 +3,6 @@ Benvenuti e benvenute  nel repository del canale di “Pronto soccorso studenti�
 Qui troverete i link al canale ed ai video caricati su Youtube, organizzati in modo semplice e funzionale.  
 Sotto il link per accedere dierettamente al canale.  
 
-§Red[Text]
-§colorRed[Text]
-
 <p align="center">
   <a href="https://www.youtube.com/channel/UCbPZP1NdbHJ8ZCrzPoYSNLw">
     <img src="./Immagini/Logo_01_Icona_256.jpg?raw=true" alt="Canale Youtube Pronto Soccorso Studenti">
