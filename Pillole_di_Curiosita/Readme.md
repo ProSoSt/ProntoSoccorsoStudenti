@@ -2,7 +2,7 @@
 
 Raccolta di brevi video su curiosità e argomenti di cultura generale. Tutto ciò che dovete sapere in modo sintetico e completo.
 
-<---!
+<!---
   
 ## **Playlist complete**
 
