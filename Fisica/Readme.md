@@ -7,6 +7,10 @@
  - **Fisica – Flashcards (Tablet o Smartphone)**
    - Serie di video “shorts” ricavati dalle lezioni. Sono video di durata inferiore al minuto (**flashcards**) che possono essere scorsi velocemente allo scopo di facilitare il ripasso o semplicemente per curiosità. Sono disponibili anche delle playlist specifiche organizzate per singolo macro-argomento.
   
+<div align="center">
+  <hr style="width: 50%; border: 1px solid #808080;">
+</div>
+
 ## **Playlist complete**
 
 <div align="center">
@@ -47,9 +51,7 @@
   <a href="https://www.youtube.com/watch?v=brGLhdNkYBs">    
     <img src="https://i.ytimg.com/vi/brGLhdNkYBs/maxresdefault.jpg" alt="Grandezze Fisiche e Sistema Internazionale di Unità di Misura – Parte 1" height="256">
   </a> 
-</div>
 
-<div align="center">
   <a href="https://www.youtube.com/watch?v=Ob7WPqHzrBc">    
     <img src="https://i.ytimg.com/vi/Ob7WPqHzrBc/maxresdefault.jpg" alt="Grandezze Fisiche e Sistema Internazionale di unità di misura – Parte 2" height="256">
   </a> 
