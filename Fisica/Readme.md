@@ -41,6 +41,9 @@
  <h1>Benvenuto sul mio progetto GitHub</h1>
  <p>Lezioni singole</p>
 </div>
+<div align="center">
+  <p style="font-size:30px; font-weight:bold;">Testo centrato e grande</p>
+</div>
 
 <div align="center">
   <a href="https://www.youtube.com/watch?v=brGLhdNkYBs">    
