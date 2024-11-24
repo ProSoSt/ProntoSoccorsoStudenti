@@ -91,9 +91,7 @@
   <a href="https://www.youtube.com/watch?v=7W3Qw4GkT8Q">    
     <img src="https://i.ytimg.com/vi/7W3Qw4GkT8Q/maxresdefault.jpg" alt="Propagazione dell'Errore" height="256">
   </a> 
-</div>
 
-<div align="center">
   <a href="https://www.youtube.com/watch?v=-UpneqYL5oM">    
     <img src="https://i.ytimg.com/vi/-UpneqYL5oM/maxresdefault.jpg" alt="Cifre Significative e Arrotondamento" height="256">
   </a> 
