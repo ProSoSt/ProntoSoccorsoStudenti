@@ -22,7 +22,7 @@
 </div>
 
 <div align="center">
-  <hr style="width: 50%; border: 1px solid #808080;">
+  <hr style="width: 50%; border: 1px solid #FF8080;">
 </div>
 
 ## **Playlist e Video – Grandezze Fisiche e Sistema Internazionale di Unità di Misura**
