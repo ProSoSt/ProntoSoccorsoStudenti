@@ -38,21 +38,8 @@
 <div align="center">
  ## **Lezioni singole**
  <b> Lezioni singole </b>
- <font size="5">  
-    Hello World 
- </font>
- <font size="10">  
-    Hello World 
- </font>
- <p>
- <font size="5">  
-    Hello World 
- </font>
-</p>
- <font size="10">  
-    Hello World 
- </font>
-</p>
+ <h1>Benvenuto sul mio progetto GitHub</h1>
+ <p>Lezioni singole</p>
 </div>
 
 <div align="center">
