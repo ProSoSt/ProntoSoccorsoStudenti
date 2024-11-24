@@ -111,6 +111,25 @@
 ## **Playlist e Video – I Vettori, Somma, Differenza e Scomposizione, Prodotto Scalare e Vettoriale**
 
 <div align="center">
+  <!---
+  <a href="https://www.youtube.com/watch?v=brGLhdNkYBs&list=PL8nSPrZb28LRmwCbmUB8t3dEBmuw6-zNt&index=1&t=10s">    
+    <img src="./Immagini/10_Grandezze_Fisiche_e_Sistema_Internazionale_di_Unita_di_Misura.jpg" alt="Grandezze Fisiche e Sistema Internazionale di Unità di Misura">
+  </a> 
+  -->
+  <a href="https://www.youtube.com/watch?v=b4EMZJ44sJs">    
+    <img src="https://img.youtube.com/vi/b4EMZJ44sJs/maxresdefault.jpg" alt="Tutto d’un fiato: Le Forze, Forza Peso, Piano Inclinato, Forza Elastica, Vincoli, Tensione, Attrito" height="256">
+  </a> 
+  <!---
+  <a href="https://www.youtube.com/playlist?list=PL8nSPrZb28LTtY5gd9s1N1nzhgesyi0BC">    
+    <img src="./Immagini/10T_Grandezze_Fisiche_e_Sistema_Internazionale_di_Unita_di_Misura.jpg" alt="Flashcards Shorts - Grandezze Fisiche e Sistema Internazionale di Unità di Misura">
+  </a>  
+  -->
+</div>
+
+
+
+
+<div align="center">
   <a href="https://www.youtube.com/watch?v=WMurstD7tW0">    
     <img src="https://i.ytimg.com/vi/WMurstD7tW0/maxresdefault.jpg" alt="Tutto d’un fiato: I Vettori, Somma, Differenza e Scomposizione, Prodotto Scalare e Vettoriale" height="256">
   </a> 
