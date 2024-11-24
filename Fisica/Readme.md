@@ -36,10 +36,7 @@
 </div>
 
 <div align="center">
-  <span style="font-size:30px; font-weight:bold;">Testo centrato e grande</span>
-</div>
-<div align="center">
-  <span style="font-size:60px; font-weight:bold;">Testo centrato e grande</span>
+  <h2>Lezioni Singole</h2>
 </div>
 
 <div align="center">
