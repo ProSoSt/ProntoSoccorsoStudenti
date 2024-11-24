@@ -129,6 +129,10 @@
 </div>
 
 <div align="center">
+  <h2>Lezioni Singole</h2>
+</div>
+
+<div align="center">
   <a href="https://www.youtube.com/watch?v=KOYrSSAgIw4">    
     <img src="https://i.ytimg.com/vi/KOYrSSAgIw4/maxresdefault.jpg" alt="Grandezze Scalari e Grandezze Vettoriali - Spostamento e somma di spostamenti" height="256">
   </a> 
@@ -221,8 +225,6 @@
     <img src="https://i.ytimg.com/vi/NLsTGLTJmWc/maxresdefault.jpg" alt="Le forza d’Attrito Statica, Dinamica e l’Attrito Volvente – Teoria con Esercizi" height="256">
   </a> 
 </div>
-
-
 
 <div align="center">
   <a href="https://www.youtube.com/watch?v=550byhfPJok">    
