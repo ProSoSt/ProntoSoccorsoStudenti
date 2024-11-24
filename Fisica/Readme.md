@@ -66,6 +66,10 @@
 </div>
 
 <div align="center">
+  <h2>Lezioni Singole</h2>
+</div>
+
+<div align="center">
   <a href="https://www.youtube.com/watch?v=CPrec2EkMko">    
     <img src="https://i.ytimg.com/vi/CPrec2EkMko/maxresdefault.jpg" alt="Misure ed Errori di Misura" height="256">
   </a> 
@@ -98,6 +102,10 @@
   <a href="https://www.youtube.com/watch?v=8T8_HwLVZdc">    
     <img src="https://i.ytimg.com/vi/8T8_HwLVZdc/maxresdefault.jpg" alt="Tutto d’un fiato: Rappresentazione Dati, Relazioni tra Grandezze, Grafici con Errori, Grafici" height="256">
   </a> 
+</div>
+
+<div align="center">
+  <h2>Lezioni Singole</h2>
 </div>
 
 <div align="center">
@@ -160,6 +168,10 @@
     <img src="./Immagini/10T_Grandezze_Fisiche_e_Sistema_Internazionale_di_Unita_di_Misura.jpg" alt="Flashcards Shorts - Grandezze Fisiche e Sistema Internazionale di Unità di Misura">
   </a>  
   -->
+</div>
+
+<div align="center">
+  <h2>Lezioni Singole</h2>
 </div>
 
 <div align="center">
