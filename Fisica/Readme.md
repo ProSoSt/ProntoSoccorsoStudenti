@@ -23,9 +23,7 @@
 
 <div align="center">
   <hr style="width: 50%; border: 1px solid #808080;">
-  <hr style="border: 1px solid #ff5733;">
 </div>
-
 
 ## **Playlist e Video – Grandezze Fisiche e Sistema Internazionale di Unità di Misura**
 
@@ -55,6 +53,10 @@
   <a href="https://www.youtube.com/watch?v=Ob7WPqHzrBc">    
     <img src="https://i.ytimg.com/vi/Ob7WPqHzrBc/maxresdefault.jpg" alt="Grandezze Fisiche e Sistema Internazionale di unità di misura – Parte 2" height="256">
   </a> 
+</div>
+
+<div align="center">
+  <hr style="width: 50%; border: 1px solid #808080;">
 </div>
 
 ## **Playlist e Video – Errori di Misura, Stima dell’Errore, Propagazione Errore e Cifre Significative**
@@ -99,6 +101,10 @@
   </a> 
 </div>
 
+<div align="center">
+  <hr style="width: 50%; border: 1px solid #808080;">
+</div>
+
 ## **Playlist e Video – Rappresentazione Dati, Relazioni tra Grandezze, Grafici con Errori, Grafici**
 
 <div align="center">
@@ -124,6 +130,10 @@
   <a href="https://www.youtube.com/watch?v=QbkZ9WqA3vU">    
     <img src="https://i.ytimg.com/vi/QbkZ9WqA3vU/maxresdefault.jpg" alt="Grafici di Misure con Errori e con Relazione Lineare, Quadratica e Inversa" height="256">
   </a> 
+</div>
+
+<div align="center">
+  <hr style="width: 50%; border: 1px solid #808080;">
 </div>
 
 ## **Playlist e Video – I Vettori, Somma, Differenza e Scomposizione, Prodotto Scalare e Vettoriale**
@@ -160,6 +170,10 @@
   <a href="https://www.youtube.com/watch?v=hfMoMrOyvI0">    
     <img src="https://i.ytimg.com/vi/hfMoMrOyvI0/maxresdefault.jpg" alt="Operazioni con i Vettori – Prodotto Scalare e Prodotto Vettoriale" height="256">
   </a> 
+</div>
+
+<div align="center">
+  <hr style="width: 50%; border: 1px solid #808080;">
 </div>
 
 ## **Playlist e Video – Le Forze, Somma, Differenza e Scomposizione, Prodotto Scalare e Vettoriale**
