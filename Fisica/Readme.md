@@ -29,7 +29,7 @@
   <hr style="width: 50%; border: 1px solid #808080;">
 </div>
 
-## **Playlist e Video – Grandezze Fisiche e Sistema Internazionale di Unità di Misura - Playlist - Video – Flashcards**
+## **Grandezze Fisiche e Sistema Internazionale di Unità di Misura – Playlist – Video – Flashcards**
 
 <div align="center">
   <a href="https://www.youtube.com/watch?v=brGLhdNkYBs&list=PL8nSPrZb28LRmwCbmUB8t3dEBmuw6-zNt&index=1&t=10s">    
