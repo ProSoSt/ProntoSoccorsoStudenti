@@ -61,7 +61,7 @@
   <hr style="width: 50%; border: 1px solid #808080;">
 </div>
 
-## **Playlist e Video – Errori di Misura, Stima dell’Errore, Propagazione Errore e Cifre Significative**
+## **Errori di Misura, Stima dell’Errore, Propagazione Errore e Cifre Significative $${\color{orange}Playlist \space – \space Video \space – \space Flashcards}$$**
 
 <div align="center">
   <a href="https://www.youtube.com/watch?v=CPrec2EkMko&list=PL8nSPrZb28LTSYMCrxtuUlBmnU7W6B5aJ">    
@@ -99,7 +99,7 @@
   <hr style="width: 50%; border: 1px solid #808080;">
 </div>
 
-## **Playlist e Video – Rappresentazione Dati, Relazioni tra Grandezze, Grafici con Errori, Grafici**
+## **Rappresentazione Dati, Relazioni tra Grandezze, Grafici con Errori, Grafici $${\color{orange}Playlist \space – \space Video \space}$$
 
 <div align="center">
   <a href="https://www.youtube.com/watch?v=QbkZ9WqA3vU&list=PL8nSPrZb28LR9DrDviCuI4BKIAMh6zCBI&pp">       
@@ -128,7 +128,7 @@
   <hr style="width: 50%; border: 1px solid #808080;">
 </div>
 
-## **Playlist e Video – I Vettori, Somma, Differenza e Scomposizione, Prodotto Scalare e Vettoriale**
+## **Playlist e Video – I Vettori, Somma, Differenza e Scomposizione, Prodotto Scalare e Vettoriale $${\color{orange}Playlist \space – \space Video \space}$$****
 
 <div align="center">
   <a href="https://www.youtube.com/watch?v=WMurstD7tW0">    
@@ -164,7 +164,7 @@
   <hr style="width: 50%; border: 1px solid #808080;">
 </div>
 
-## **Playlist e Video – Le Forze, Somma, Differenza e Scomposizione, Prodotto Scalare e Vettoriale**
+## **Playlist e Video – Le Forze, Somma, Differenza e Scomposizione, Prodotto Scalare e Vettoriale $${\color{orange}Playlist \space – \space Video}$$****
 
 <div align="center">
   <!---
