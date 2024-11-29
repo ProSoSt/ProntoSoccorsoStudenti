@@ -51,6 +51,7 @@ La prima sezione è destinata alle lezioni di Fisica per le scuole superiori. Pe
    - Corso organizzato per lezioni e per macro-argomenti. Ogni macro-argomento è suddiviso in lezioni di circa 10 minuti. Sono disponibili anche delle playlist organizzate per singolo macro-argomento:
      - **Grandezze Fisiche e Sistema Internazionale di Unità di Misura**
      - **Misure di Grandezze Fisiche**
+     - **Rappresentazione Dati**
      - **I Vettori e gli Scalari**
      - **Le Forze**
  - **Fisica tutto d’un fiato**
@@ -59,6 +60,7 @@ La prima sezione è destinata alle lezioni di Fisica per le scuole superiori. Pe
    - Serie di video “shorts” ricavati dalle lezioni. Sono video di durata inferiore al minuto (**flashcards**) che possono essere scorsi velocemente allo scopo di facilitare il ripasso o semplicemente per curiosità. Sono disponibili anche delle playlist organizzate per singolo macro-argomento:
      - **Grandezze Fisiche e Sistema Internazionale di Unità di Misura**
      - **Misure di Grandezze Fisiche**
+     - **Rappresentazione Dati**
      - **I Vettori e gli Scalari**
      - **Le Forze**
 
