@@ -99,7 +99,7 @@
   <hr style="width: 50%; border: 1px solid #808080;">
 </div>
 
-## **Rappresentazione Dati, Relazioni tra Grandezze, Grafici con Errori, Grafici $${\color{orange}Playlist \space lezioni \space singole \space – \space Video \space con \space tutte \space le \space lezioni )}$$**
+## **Rappresentazione Dati, Relazioni tra Grandezze, Grafici con Errori, Grafici $${\color{orange}Playlist \space lezioni \space singole \space – \space Video \space con \space tutte \space le \space lezioni }$$**
 
 <div align="center">
   <a href="https://www.youtube.com/watch?v=QbkZ9WqA3vU&list=PL8nSPrZb28LR9DrDviCuI4BKIAMh6zCBI&pp">       
@@ -128,7 +128,7 @@
   <hr style="width: 50%; border: 1px solid #808080;">
 </div>
 
-## **Playlist e Video – I Vettori, Somma, Differenza e Scomposizione, Prodotto Scalare e Vettoriale $${\color{orange}Playlist \space lezioni \space singole \space – \space Video \space con \space tutte \space le \space lezioni )}$$**
+## **Playlist e Video – I Vettori, Somma, Differenza e Scomposizione, Prodotto Scalare e Vettoriale $${\color{orange}Playlist \space lezioni \space singole \space – \space Video \space con \space tutte \space le \space lezioni }$$**
 
 <div align="center">
   <a href="https://www.youtube.com/watch?v=WMurstD7tW0">    
@@ -164,7 +164,7 @@
   <hr style="width: 50%; border: 1px solid #808080;">
 </div>
 
-## **Playlist e Video – Le Forze, Somma, Differenza e Scomposizione, Prodotto Scalare e Vettoriale $${\color{orange}Playlist \space lezioni \space singole \space – \space Video \space con \space tutte \space le \space lezioni )}$$**
+## **Playlist e Video – Le Forze, Somma, Differenza e Scomposizione, Prodotto Scalare e Vettoriale $${\color{orange}Playlist \space lezioni \space singole \space – \space Video \space con \space tutte \space le \space lezioni }$$**
 
 <div align="center">
   <!---
