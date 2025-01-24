@@ -26,8 +26,14 @@ Sotto il link per accedere dierettamente al canale.
 --> 
 
 
-Il canale ad oggi è suddiviso in 2 sezioni:
+Il canale ad oggi è suddiviso nelle seguenti sezioni:
 
+ - **Lezioni/Corso di Fisica**
+ - **Pillole di curiosità**
+<!--
+[![Lezioni di Fisica]](Fisica/Readme_Fisica.md)
+[![Lezioni di Fisica]](Pillole_di_Curiosita/Readme_Pillole_di_Curiosita.md)
+-->
  - **Lezioni/Corso di Fisica**
  - **Pillole di curiosità**
 <!--
