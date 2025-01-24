@@ -4,7 +4,7 @@ Qui troverete i link al canale ed ai video caricati su $${\color{orange}Youtube}
 Sotto il link per accedere dierettamente al canale.  
 
 <p align="center">
-  <a href="https://www.youtube.com/channel/UCbPZP1NdbHJ8ZCrzPoYSNLw">
+  <a href="https://www.youtube.com/channel/UCbPZP1NdbHJ8ZCrzPoYSNLw" title="Canale Youtube Pronto Soccorso Studenti">
     <img src="./Immagini/Logo_01_Icona_256.jpg?raw=true" alt="Canale Youtube Pronto Soccorso Studenti">
   </a>
 </p>
@@ -35,10 +35,10 @@ Il canale ad oggi è suddiviso nelle seguenti sezioni:
 [![Lezioni di Fisica](./Immagini/Pillole_di_Curiosita_256.jpg)](Pillole_di_Curiosita/Readme_Pillole_di_Curiosita.md)
 -->
 <div align="left">
-  <a href="Fisica/Readme.md"> - Lezioni/Corso di Fisica </a>
+  <a href="Fisica/Readme.md" title="Pagina Lezioni/Corso di Fisica"> - Lezioni/Corso di Fisica </a>
 </div>
 <div align="left">
-  <a href="Pillole_di_Curiosita/Readme.md"> - Pillole di curiosità </a>
+  <a href="Pillole_di_Curiosita/Readme.md" title="Pillole di curiosità"> - Pillole di curiosità </a>
 </div>
 
 <div align="center">
