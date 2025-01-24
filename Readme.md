@@ -35,18 +35,18 @@ Il canale ad oggi è suddiviso nelle seguenti sezioni:
 [![Lezioni di Fisica](./Immagini/Pillole_di_Curiosita_256.jpg)](Pillole_di_Curiosita/Readme_Pillole_di_Curiosita.md)
 -->
 <div align="left">
-  <a href="Fisica/Readme.md" title="Pagina Lezioni/Corso di Fisica"> - Lezioni/Corso di Fisica </a>
+  <a href="Fisica/Readme.md" title="Pagina Lezioni/Corso di Fisica"> - Pagina Lezioni/Corso di Fisica </a>
 </div>
 <div align="left">
-  <a href="Pillole_di_Curiosita/Readme.md" title="Pillole di curiosità"> - Pillole di curiosità </a>
+  <a href="Pillole_di_Curiosita/Readme.md" title="Pillole di curiosità"> - Pagina Pillole di curiosità </a>
 </div>
 
 <div align="center">
   <a href="Fisica/Readme.md">
-    <img src="./Immagini/Corso_di_Fisica_256.jpg" alt="Lezioni di Fisica">
+    <img src="./Immagini/Corso_di_Fisica_256.jpg" alt="Lezioni di Fisica" title="Pagina Lezioni/Corso di Fisica">
   </a>
   <a href="Pillole_di_Curiosita/Readme.md">
-    <img src="./Immagini/Pillole_di_Curiosita_256.jpg" alt="Lezioni di Fisica">
+    <img src="./Immagini/Pillole_di_Curiosita_256.jpg" alt="Lezioni di Fisica" title="Pillole di curiosità">
   </a>
 </div>
 
