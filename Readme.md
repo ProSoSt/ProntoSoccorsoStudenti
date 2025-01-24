@@ -28,8 +28,8 @@ Sotto il link per accedere dierettamente al canale.
 
 Il canale ad oggi è suddiviso nelle seguenti sezioni:
 
- - **Lezioni/Corso di Fisica** <a href="Fisica/Readme.md" title="Pagina Lezioni/Corso di Fisica"> • Link </a>
- - **Pillole di curiosità**  <a href="Fisica/Readme.md" title="Pagina Pillole di curiosità"> • Link </a>
+ - **Lezioni/Corso di Fisica** <a href="Fisica/Readme.md" title="Pagina Lezioni/Corso di Fisica "> • Link </a>
+ - **Pillole di curiosità**  <a href="Fisica/Readme.md" title="Pagina Pillole di curiosità "> • Link </a>
 
 <!--
 [![Lezioni di Fisica](./Immagini/Corso_di_Fisica_256.jpg)](Fisica/Readme_Fisica.md)
