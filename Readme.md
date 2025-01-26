@@ -28,6 +28,7 @@ Sotto il link per accedere dierettamente al canale.
 
 Il canale ad oggi è suddiviso nelle seguenti sezioni:
 
+ - **Lezioni/Corso di Matematica** <a href="Matematica/Readme.md" title="Pagina Lezioni/Corso di Matematica "> • Link </a>
  - **Lezioni/Corso di Fisica** <a href="Fisica/Readme.md" title="Pagina Lezioni/Corso di Fisica "> • Link </a>
  - **Pillole di curiosità**  <a href="Fisica/Readme.md" title="Pagina Pillole di curiosità "> • Link </a>
 
