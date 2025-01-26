@@ -42,7 +42,7 @@
 
 <div align="center">
   <a href="https://www.youtube.com/watch?v=RRfM4uULU1I&list=PL8nSPrZb28LR20HbXb1t_Jp6M11QfAqKF">    
-    <img src="./Immagini/10_Grandezze_Fisiche_e_Sistema_Internazionale_di_Unita_di_Misura.jpg" alt="Il Calcolo Letterale e i Monomi">
+    <img src="./Immagini/10_Il_Calcolo_Letterale.jpg" alt="Il Calcolo Letterale e i Monomi">
   </a>  
   <!---
   <a href="https://www.youtube.com/watch?v=K4gf_YanKFk&list=PL8nSPrZb28LTqfTAoRUl4sg6rCbrL2gwE">    
