@@ -30,14 +30,17 @@ Il canale ad oggi è suddiviso nelle seguenti sezioni:
 
  - **Lezioni/Corso di Matematica** <a href="Matematica/Readme.md" title="Pagina Lezioni/Corso di Matematica "> • Link </a>
  - **Lezioni/Corso di Fisica** <a href="Fisica/Readme.md" title="Pagina Lezioni/Corso di Fisica "> • Link </a>
- - **Pillole di curiosità**  <a href="Fisica/Readme.md" title="Pagina Pillole di curiosità "> • Link </a>
+ - **Pillole di curiosità**  <a href="Pillole_di_Curiosita/Readme.md" title="Pagina Pillole di curiosità "> • Link </a>
 
 <!--
 [![Lezioni di Fisica](./Immagini/Corso_di_Fisica_256.jpg)](Fisica/Readme_Fisica.md)
 [![Lezioni di Fisica](./Immagini/Pillole_di_Curiosita_256.jpg)](Pillole_di_Curiosita/Readme_Pillole_di_Curiosita.md)
 -->
 
-<div align="center">
+<div align="center">  
+  <a href="Mat6ematica/Readme.md">
+    <img src="./Immagini/Corso_di_Mat6ematica_256.jpg" alt="Lezioni di Fisica" title="Pagina Lezioni/Corso di Mat6ematica">
+  </a>
   <a href="Fisica/Readme.md">
     <img src="./Immagini/Corso_di_Fisica_256.jpg" alt="Lezioni di Fisica" title="Pagina Lezioni/Corso di Fisica">
   </a>
@@ -45,6 +48,18 @@ Il canale ad oggi è suddiviso nelle seguenti sezioni:
     <img src="./Immagini/Pillole_di_Curiosita_256.jpg" alt="Lezioni di Fisica" title="Pillole di curiosità">
   </a>
 </div>
+
+## Lezioni di Fisica
+
+La prima sezione è destinata alle lezioni di Fisica per le scuole superiori. Per questa materia sono disponibili diverse playlists:  
+ - **Corso di Matematica**
+   - Corso organizzato per lezioni e per macro-argomenti. Ogni macro-argomento è suddiviso in lezioni di circa 10 minuti. Sono disponibili anche delle playlist organizzate per singolo macro-argomento:
+     - **Il Calcolo Letterale e i Monomi**
+ - **Matematica tutto d’un fiato**
+   - Video completi di ogni macro-argomento in cui sono messe assieme e in modo ordinato tutte le lezioni (in futuro)
+ - **Matematica – Flashcards (Tablet o Smartphone)**
+   - Serie di video “shorts” ricavati dalle lezioni. Sono video di durata inferiore al minuto (**flashcards**) che possono essere scorsi velocemente allo scopo di facilitare il ripasso o semplicemente per curiosità. Sono disponibili anche delle playlist organizzate per singolo macro-argomento:
+     - **Il Calcolo Letterale e i Monomi (in futuro)**
 
 ## Lezioni di Fisica
 
