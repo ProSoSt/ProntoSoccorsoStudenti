@@ -141,21 +141,21 @@
 </div>
 
 <div align="center">
-  <a href="https://www.youtube.com/watch?v=KOYrSSAgIw4&list=PL8nSPrZb28LTqfTAoRUl4sg6rCbrL2gwE">    
+  <a href="https://www.youtube.com/watch?v=KOYrSSAgIw4&list=PL8nSPrZb28LR-eTcWFKxfJIZlyCOqeKNn">    
     <img src="https://i.ytimg.com/vi/KOYrSSAgIw4/maxresdefault.jpg" alt="Grandezze Scalari e Grandezze Vettoriali - Spostamento e somma di spostamenti" height="256">
   </a> 
 
-  <a href="https://www.youtube.com/watch?v=0fM-UjnCQsw&list=PL8nSPrZb28LTqfTAoRUl4sg6rCbrL2gwE">    
+  <a href="https://www.youtube.com/watch?v=0fM-UjnCQsw&list=PL8nSPrZb28LR-eTcWFKxfJIZlyCOqeKNn">    
     <img src="https://i.ytimg.com/vi/0fM-UjnCQsw/maxresdefault.jpg" alt="Operazioni con i Vettori – Somma, differenza e scomposizione" height="256">
   </a> 
 </div>
 
 <div align="center">
-  <a href="https://www.youtube.com/watch?v=cnZofYzAsfw&list=PL8nSPrZb28LTqfTAoRUl4sg6rCbrL2gwE">    
+  <a href="https://www.youtube.com/watch?v=cnZofYzAsfw&list=PL8nSPrZb28LR-eTcWFKxfJIZlyCOqeKNn">    
     <img src="https://i.ytimg.com/vi/cnZofYzAsfw/maxresdefault.jpg" alt="Operazioni con i Vettori – Scomposizione con seno, coseno e tangente" height="256">
   </a> 
 
-  <a href="https://www.youtube.com/watch?v=hfMoMrOyvI0&list=PL8nSPrZb28LTqfTAoRUl4sg6rCbrL2gwE">    
+  <a href="https://www.youtube.com/watch?v=hfMoMrOyvI0&list=PL8nSPrZb28LR-eTcWFKxfJIZlyCOqeKNn">    
     <img src="https://i.ytimg.com/vi/hfMoMrOyvI0/maxresdefault.jpg" alt="Operazioni con i Vettori – Prodotto Scalare e Prodotto Vettoriale" height="256">
   </a> 
 </div>
