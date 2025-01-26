@@ -131,6 +131,9 @@
 ## **Playlist e Video – I Vettori, Somma, Differenza e Scomposizione, Prodotto Scalare e Vettoriale. Esempi ed Esercizi $${\color{orange}Playlist \space lezioni \space singole \space – \space Video \space con \space tutte \space le \space lezioni }$$**
 
 <div align="center">
+  <a href="https://www.youtube.com/watch?v=KOYrSSAgIw4&list=PL8nSPrZb28LR-eTcWFKxfJIZlyCOqeKNn">       
+    <img src="./Immagini/40_I_Vettori_e_gli_scalari.jpg" alt="I Vettori e gli Scalari">
+  </a>   
   <a href="https://www.youtube.com/watch?v=WMurstD7tW0&list=PL8nSPrZb28LTqfTAoRUl4sg6rCbrL2gwE">    
     <img src="https://i.ytimg.com/vi/WMurstD7tW0/maxresdefault.jpg" alt="Tutto d’un fiato: I Vettori, Somma, Differenza e Scomposizione, Prodotto Scalare e Vettoriale" height="256">
   </a> 
