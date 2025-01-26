@@ -48,11 +48,11 @@
 </div>
 
 <div align="center">
-  <a href="https://www.youtube.com/watch?v=brGLhdNkYBs">    
+  <a href="https://www.youtube.com/watch?v=brGLhdNkYBs&list=PL8nSPrZb28LRmwCbmUB8t3dEBmuw6-zNt">    
     <img src="https://i.ytimg.com/vi/brGLhdNkYBs/maxresdefault.jpg" alt="Grandezze Fisiche e Sistema Internazionale di Unità di Misura – Parte 1" height="256">
   </a> 
 
-  <a href="https://www.youtube.com/watch?v=Ob7WPqHzrBc">    
+  <a href="https://www.youtube.com/watch?v=Ob7WPqHzrBc&list=PL8nSPrZb28LRmwCbmUB8t3dEBmuw6-zNt">    
     <img src="https://i.ytimg.com/vi/Ob7WPqHzrBc/maxresdefault.jpg" alt="Grandezze Fisiche e Sistema Internazionale di unità di misura – Parte 2" height="256">
   </a> 
 </div>
@@ -80,19 +80,19 @@
 </div>
 
 <div align="center">
-  <a href="https://www.youtube.com/watch?v=CPrec2EkMko">    
+  <a href="https://www.youtube.com/watch?v=CPrec2EkMko&list=PL8nSPrZb28LTSYMCrxtuUlBmnU7W6B5aJ">    
     <img src="https://i.ytimg.com/vi/CPrec2EkMko/maxresdefault.jpg" alt="Misure ed Errori di Misura" height="256">
   </a> 
 
-  <a href="https://www.youtube.com/watch?v=Ugkprq0WAdI">    
+  <a href="https://www.youtube.com/watch?v=Ugkprq0WAdI&list=PL8nSPrZb28LTSYMCrxtuUlBmnU7W6B5aJ">    
     <img src="https://i.ytimg.com/vi/Ugkprq0WAdI/maxresdefault.jpg" alt="Misura e Stima dell'errore" height="256">
   </a> 
 
-  <a href="https://www.youtube.com/watch?v=7W3Qw4GkT8Q">    
+  <a href="https://www.youtube.com/watch?v=7W3Qw4GkT8Q&list=PL8nSPrZb28LTSYMCrxtuUlBmnU7W6B5aJ">    
     <img src="https://i.ytimg.com/vi/7W3Qw4GkT8Q/maxresdefault.jpg" alt="Propagazione dell'Errore" height="256">
   </a> 
 
-  <a href="https://www.youtube.com/watch?v=-UpneqYL5oM">    
+  <a href="https://www.youtube.com/watch?v=-UpneqYL5oM&list=PL8nSPrZb28LTSYMCrxtuUlBmnU7W6B5aJ">    
     <img src="https://i.ytimg.com/vi/-UpneqYL5oM/maxresdefault.jpg" alt="Cifre Significative e Arrotondamento" height="256">
   </a> 
 
@@ -115,11 +115,11 @@
 </div>
 
 <div align="center">
-  <a href="https://www.youtube.com/watch?v=c_7_ytuCSiE">    
+  <a href="https://www.youtube.com/watch?v=c_7_ytuCSiE&list=PL8nSPrZb28LR9DrDviCuI4BKIAMh6zCBI&pp">    
     <img src="https://i.ytimg.com/vi/c_7_ytuCSiE/maxresdefault.jpg" alt="Rappresentazione Dati e Relazioni tra Grandezze Fisiche" height="256">
   </a> 
 
-  <a href="https://www.youtube.com/watch?v=QbkZ9WqA3vU">    
+  <a href="https://www.youtube.com/watch?v=QbkZ9WqA3vU&list=PL8nSPrZb28LR9DrDviCuI4BKIAMh6zCBI&pp">    
     <img src="https://i.ytimg.com/vi/QbkZ9WqA3vU/maxresdefault.jpg" alt="Grafici di Misure con Errori e con Relazione Lineare, Quadratica e Inversa" height="256">
   </a> 
 </div>
@@ -141,21 +141,21 @@
 </div>
 
 <div align="center">
-  <a href="https://www.youtube.com/watch?v=KOYrSSAgIw4">    
+  <a href="https://www.youtube.com/watch?v=KOYrSSAgIw4&list=PL8nSPrZb28LTqfTAoRUl4sg6rCbrL2gwE">    
     <img src="https://i.ytimg.com/vi/KOYrSSAgIw4/maxresdefault.jpg" alt="Grandezze Scalari e Grandezze Vettoriali - Spostamento e somma di spostamenti" height="256">
   </a> 
 
-  <a href="https://www.youtube.com/watch?v=0fM-UjnCQsw">    
+  <a href="https://www.youtube.com/watch?v=0fM-UjnCQsw&list=PL8nSPrZb28LTqfTAoRUl4sg6rCbrL2gwE">    
     <img src="https://i.ytimg.com/vi/0fM-UjnCQsw/maxresdefault.jpg" alt="Operazioni con i Vettori – Somma, differenza e scomposizione" height="256">
   </a> 
 </div>
 
 <div align="center">
-  <a href="https://www.youtube.com/watch?v=cnZofYzAsfw">    
+  <a href="https://www.youtube.com/watch?v=cnZofYzAsfw&list=PL8nSPrZb28LTqfTAoRUl4sg6rCbrL2gwE">    
     <img src="https://i.ytimg.com/vi/cnZofYzAsfw/maxresdefault.jpg" alt="Operazioni con i Vettori – Scomposizione con seno, coseno e tangente" height="256">
   </a> 
 
-  <a href="https://www.youtube.com/watch?v=hfMoMrOyvI0">    
+  <a href="https://www.youtube.com/watch?v=hfMoMrOyvI0&list=PL8nSPrZb28LTqfTAoRUl4sg6rCbrL2gwE">    
     <img src="https://i.ytimg.com/vi/hfMoMrOyvI0/maxresdefault.jpg" alt="Operazioni con i Vettori – Prodotto Scalare e Prodotto Vettoriale" height="256">
   </a> 
 </div>
