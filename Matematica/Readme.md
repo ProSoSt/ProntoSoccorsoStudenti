@@ -59,10 +59,6 @@
 </div>
 
 <div align="center">
-  <a href="https://www.youtube.com/watch?v=RRfM4uULU1I&list=PL8nSPrZb28LR20HbXb1t_Jp6M11QfAqKF">    
-    <img src="https://i.ytimg.com/vi/RRfM4uULU1I/maxresdefault.jpg" alt="Introduzione al Calcolo Letterale – Espressioni Algebriche con Variabili e Costanti" height="256">
-  </a> 
-
   <a href="https://www.youtube.com/watch?v=RRfM4uULU1I&list=PL8nSPrZb28LR20HbXb1t_Jp6M11QfAqKF">
     <img src="https://i.ytimg.com/vi/RRfM4uULU1I/maxresdefault.jpg" alt="Introduzione al Calcolo Letterale – Espressioni Algebriche con Variabili e Costanti" height="256">
   </a>
