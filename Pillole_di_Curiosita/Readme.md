@@ -69,6 +69,10 @@ Raccolta di brevi video su curiosità e argomenti di cultura generale. Tutto ci�
   <a href="https://www.youtube.com/watch?v=Bp8Mu59lVsc">
     <img src="https://i.ytimg.com/vi/Bp8Mu59lVsc/maxresdefault.jpg" alt="Il Paradosso di Easterlin, perché i soldi non danno la felicità" height="256">
   </a>
+
+  <a href="https://www.youtube.com/watch?v=nKxTfZarcvc">
+    <img src="https://i.ytimg.com/vi/nKxTfZarcvc/maxresdefault.jpg" alt="MBTI, l’indicatore di personalità di Myers-Briggs – Dalla teoria alle critiche" height="256">
+  </a>
 </div>
 
 
