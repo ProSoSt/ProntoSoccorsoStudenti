@@ -61,7 +61,7 @@
   <hr style="width: 50%; border: 1px solid #808080;">
 </div>
 
-## **Errori di Misura, Stima dell’Errore, Propagazione Errore e Cifre Significative. Esempi ed Esercizi <br>$${\color{orange}Playlist \space lezioni \space singole \space – \space Video \space con \space tutte \space le \space lezioni \space – \space Flashcards \space ( \space Video \space Short \space Verticali )}$$**
+## **Errori di Misura, Stima dell’Errore, Propagazione Errore e Cifre Significative. Esempi ed Esercizi $${\color{orange}Playlist \space lezioni \space singole \space – \space Video \space con \space tutte \space le \space lezioni \space – \space Flashcards \space ( \space Video \space Short \space Verticali )}$$**
 
 <div align="center">
   <a href="https://www.youtube.com/watch?v=CPrec2EkMko&list=PL8nSPrZb28LTSYMCrxtuUlBmnU7W6B5aJ">    
@@ -99,7 +99,7 @@
   <hr style="width: 50%; border: 1px solid #808080;">
 </div>
 
-## **Rappresentazione Dati, Relazioni tra Grandezze, Grafici con Errori, Grafici. Esempi ed Esercizi <br>$${\color{orange}Playlist \space lezioni \space singole \space – \space Video \space con \space tutte \space le \space lezioni }$$**
+## **Rappresentazione Dati, Relazioni tra Grandezze, Grafici con Errori, Grafici. Esempi ed Esercizi $${\color{orange}Playlist \space lezioni \space singole \space – \space Video \space con \space tutte \space le \space lezioni }$$**
 
 <div align="center">
   <a href="https://www.youtube.com/watch?v=QbkZ9WqA3vU&list=PL8nSPrZb28LR9DrDviCuI4BKIAMh6zCBI&pp">       
