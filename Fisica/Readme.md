@@ -187,39 +187,39 @@
 </div>
 
 <div align="center">
-  <a href="https://www.youtube.com/watch?v=0XSWREt-ylI">    
+  <a href="https://www.youtube.com/watch?v=0XSWREt-ylI&list=PL8nSPrZb28LRt2T23z9c_1X3PHDf_Pof0">    
     <img src="https://i.ytimg.com/vi/0XSWREt-ylI/maxresdefault.jpg" alt="Introduzione alle Forze" height="256">
   </a> 
 
-  <a href="https://www.youtube.com/watch?v=kiTsBvTzeuE">    
+  <a href="https://www.youtube.com/watch?v=kiTsBvTzeuE&list=PL8nSPrZb28LRt2T23z9c_1X3PHDf_Pof0">    
     <img src="https://i.ytimg.com/vi/kiTsBvTzeuE/maxresdefault.jpg" alt="Esercizi introduttivi sulle forze – Trigonometria e Teorema di Pitagora" height="256">
   </a> 
 
-  <a href="https://www.youtube.com/watch?v=PbkxstNyq4I">    
+  <a href="https://www.youtube.com/watch?v=PbkxstNyq4I&list=PL8nSPrZb28LRt2T23z9c_1X3PHDf_Pof0">    
     <img src="https://i.ytimg.com/vi/PbkxstNyq4I/maxresdefault.jpg" alt="Esercizi introduttivi sulle forze 2 – Esercizi avanzati con formule inverse" height="256">
   </a> 
 
-  <a href="https://www.youtube.com/watch?v=hD0RnAXZDnc">    
+  <a href="https://www.youtube.com/watch?v=hD0RnAXZDnc&list=PL8nSPrZb28LRt2T23z9c_1X3PHDf_Pof0">    
     <img src="https://i.ytimg.com/vi/hD0RnAXZDnc/maxresdefault.jpg" alt="La Forza Peso e la legge di Gravitazione Universale" height="256">
   </a> 
 
-  <a href="https://www.youtube.com/watch?v=LCPqj-CM3CM">    
+  <a href="https://www.youtube.com/watch?v=LCPqj-CM3CM&list=PL8nSPrZb28LRt2T23z9c_1X3PHDf_Pof0">    
     <img src="https://i.ytimg.com/vi/LCPqj-CM3CM/maxresdefault.jpg" alt="La Forza Peso e il Piano Inclinato" height="256">
   </a> 
 
-  <a href="https://www.youtube.com/watch?v=g7-Kpa6110k">    
+  <a href="https://www.youtube.com/watch?v=g7-Kpa6110k&list=PL8nSPrZb28LRt2T23z9c_1X3PHDf_Pof0">    
     <img src="https://i.ytimg.com/vi/g7-Kpa6110k/maxresdefault.jpg" alt="La Forza Elastica - La Legge di Hooke ed Esercizi" height="256">
   </a> 
 
-  <a href="https://www.youtube.com/watch?v=0L1Gik7MaO4">    
+  <a href="https://www.youtube.com/watch?v=0L1Gik7MaO4&list=PL8nSPrZb28LRt2T23z9c_1X3PHDf_Pof0">    
     <img src="https://i.ytimg.com/vi/0L1Gik7MaO4/maxresdefault.jpg" alt="La Reazione Normale e la Tensione della Fune – Le Forze Vincolari con Esercizi" height="256">
   </a> 
 
-  <a href="https://www.youtube.com/watch?v=NLsTGLTJmWc">    
+  <a href="https://www.youtube.com/watch?v=NLsTGLTJmWc&list=PL8nSPrZb28LRt2T23z9c_1X3PHDf_Pof0">    
     <img src="https://i.ytimg.com/vi/NLsTGLTJmWc/maxresdefault.jpg" alt="Le forza d’Attrito Statica, Dinamica e l’Attrito Volvente – Teoria con Esercizi" height="256">
   </a> 
 
-  <a href="https://www.youtube.com/watch?v=550byhfPJok">    
+  <a href="https://www.youtube.com/watch?v=550byhfPJok&list=PL8nSPrZb28LRt2T23z9c_1X3PHDf_Pof0">    
     <img src="https://i.ytimg.com/vi/550byhfPJok/maxresdefault.jpg" alt="Esercizi sulle Forze con Attriti, Molle, Piano Inclinato, Piano Verticale e Molle in Serie" height="256">
   </a> 
 </div>
