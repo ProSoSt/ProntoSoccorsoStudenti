@@ -170,11 +170,9 @@
 ## **Playlist e Video – Le Forze, Somma, Differenza, Scomposizione, Forza Peso, Piano Inclinato, Forza Eleastica, Vincoli, Reazione Normale, Tensionedella Fune, Attrito Statico e Attrito Dinamico. Esempi ed Esercizi $${\color{orange}Playlist \space lezioni \space singole \space – \space Video \space con \space tutte \space le \space lezioni }$$**
 
 <div align="center">
-  <!---
-  <a href="https://www.youtube.com/watch?v=brGLhdNkYBs&list=PL8nSPrZb28LRmwCbmUB8t3dEBmuw6-zNt&index=1&t=10s">    
-    <img src="./Immagini/10_Grandezze_Fisiche_e_Sistema_Internazionale_di_Unita_di_Misura.jpg" alt="Grandezze Fisiche e Sistema Internazionale di Unità di Misura">
+  <a href="https://www.youtube.com/watch?v=0XSWREt-ylI&list=PL8nSPrZb28LRt2T23z9c_1X3PHDf_Pof0">    
+    <img src="./Immagini/50_Introduzione_alle_Forze.jpg" alt="Introduzione alle Forze">
   </a> 
-  -->
   <a href="https://www.youtube.com/watch?v=b4EMZJ44sJs&list=PL8nSPrZb28LTqfTAoRUl4sg6rCbrL2gwE">    
     <img src="https://img.youtube.com/vi/b4EMZJ44sJs/maxresdefault.jpg" alt="Tutto d’un fiato: Le Forze, Forza Peso, Piano Inclinato, Forza Elastica, Vincoli, Tensione, Attrito" height="256">
   </a> 
