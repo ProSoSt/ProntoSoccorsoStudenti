@@ -14,10 +14,10 @@
 ## **Playlist complete**
 
 <div align="center">
-  <a href="https://www.youtube.com/watch?v=brGLhdNkYBs&list=PL8nSPrZb28LQMWy1P7IlFdAgczNo_1CSp&index=1&t=6s">    
+  <a href="https://www.youtube.com/watch?v=brGLhdNkYBs&list=PL8nSPrZb28LQMWy1P7IlFdAgczNo_1CSp">    
     <img src="./Immagini/Corso_di_Fisica_256.jpg" alt="Corso di Fisica">
   </a>     
-  <a href="https://www.youtube.com/watch?v=K4gf_YanKFk&list=PL8nSPrZb28LTqfTAoRUl4sg6rCbrL2gwE&index=1&t=5s">    
+  <a href="https://www.youtube.com/watch?v=K4gf_YanKFk&list=PL8nSPrZb28LTqfTAoRUl4sg6rCbrL2gwE">    
     <img src="./Immagini/Fisica_tutto_ d_un_fiato_256.jpg" alt="Fisica tutto d'un fiato">
   </a> 
   <a href="https://www.youtube.com/playlist?list=PL8nSPrZb28LQ7NziB90W2tDkpI6NlpMVI">    
@@ -32,10 +32,10 @@
 ## **Grandezze Fisiche e Sistema Internazionale di Unità di Misura. Esempi ed Esercizi $${\color{orange}Playlist \space lezioni \space singole \space – \space Video \space con \space tutte \space le \space lezioni \space – \space Flashcards \space ( \space Video \space Short \space Verticali )}$$**
 
 <div align="center">
-  <a href="https://www.youtube.com/watch?v=brGLhdNkYBs&list=PL8nSPrZb28LRmwCbmUB8t3dEBmuw6-zNt&index=1&t=10s">    
+  <a href="https://www.youtube.com/watch?v=brGLhdNkYBs&list=PL8nSPrZb28LRmwCbmUB8t3dEBmuw6-zNt">    
     <img src="./Immagini/10_Grandezze_Fisiche_e_Sistema_Internazionale_di_Unita_di_Misura.jpg" alt="Grandezze Fisiche e Sistema Internazionale di Unità di Misura">
   </a>  
-  <a href="https://www.youtube.com/watch?v=K4gf_YanKFk">    
+  <a href="https://www.youtube.com/watch?v=K4gf_YanKFk&list=PL8nSPrZb28LTqfTAoRUl4sg6rCbrL2gwE">    
     <img src="https://img.youtube.com/vi/K4gf_YanKFk/maxresdefault.jpg" alt="Tutto d'un fiato: Grandezze Fisiche e Sistema Internazionale di Unità di Misura" height="256">
   </a> 
   <a href="https://www.youtube.com/playlist?list=PL8nSPrZb28LTtY5gd9s1N1nzhgesyi0BC">    
@@ -67,7 +67,7 @@
   <a href="https://www.youtube.com/watch?v=CPrec2EkMko&list=PL8nSPrZb28LTSYMCrxtuUlBmnU7W6B5aJ">    
     <img src="./Immagini/20_Misure_di_Grandezze_Fisiche.jpg" alt="Misure di Grandezze Fisiche">
   </a>  
-  <a href="https://www.youtube.com/watch?v=RtA-prAJenk">    
+  <a href="https://www.youtube.com/watch?v=RtA-prAJenk&list=PL8nSPrZb28LTqfTAoRUl4sg6rCbrL2gwE">    
     <img src="https://i.ytimg.com/vi/RtA-prAJenk/maxresdefault.jpg" alt="Tutto d’un fiato: Misure, Errori di Misura, Stima dell’Errore, Propagazione Errore e Cifre Significative" height="256">
   </a> 
   <a href="https://www.youtube.com/playlist?list=PL8nSPrZb28LTKt3ZYnuQkcVeyzxX58WSU">    
@@ -105,7 +105,7 @@
   <a href="https://www.youtube.com/watch?v=QbkZ9WqA3vU&list=PL8nSPrZb28LR9DrDviCuI4BKIAMh6zCBI&pp">       
     <img src="./Immagini/30_Rappresentazione_Grandezze_Fisiche.jpg" alt="Rappresentazione Grandezze Fisiche">
   </a>   
-  <a href="https://www.youtube.com/watch?v=8T8_HwLVZdc">    
+  <a href="https://www.youtube.com/watch?v=8T8_HwLVZdc&list=PL8nSPrZb28LTqfTAoRUl4sg6rCbrL2gwE">    
     <img src="https://i.ytimg.com/vi/8T8_HwLVZdc/maxresdefault.jpg" alt="Tutto d’un fiato: Rappresentazione Dati, Relazioni tra Grandezze, Grafici con Errori, Grafici" height="256">
   </a> 
 </div>
@@ -131,7 +131,7 @@
 ## **Playlist e Video – I Vettori, Somma, Differenza e Scomposizione, Prodotto Scalare e Vettoriale. Esempi ed Esercizi $${\color{orange}Playlist \space lezioni \space singole \space – \space Video \space con \space tutte \space le \space lezioni }$$**
 
 <div align="center">
-  <a href="https://www.youtube.com/watch?v=WMurstD7tW0">    
+  <a href="https://www.youtube.com/watch?v=WMurstD7tW0&list=PL8nSPrZb28LTqfTAoRUl4sg6rCbrL2gwE">    
     <img src="https://i.ytimg.com/vi/WMurstD7tW0/maxresdefault.jpg" alt="Tutto d’un fiato: I Vettori, Somma, Differenza e Scomposizione, Prodotto Scalare e Vettoriale" height="256">
   </a> 
 </div>
@@ -172,7 +172,7 @@
     <img src="./Immagini/10_Grandezze_Fisiche_e_Sistema_Internazionale_di_Unita_di_Misura.jpg" alt="Grandezze Fisiche e Sistema Internazionale di Unità di Misura">
   </a> 
   -->
-  <a href="https://www.youtube.com/watch?v=b4EMZJ44sJs">    
+  <a href="https://www.youtube.com/watch?v=b4EMZJ44sJs&list=PL8nSPrZb28LTqfTAoRUl4sg6rCbrL2gwE">    
     <img src="https://img.youtube.com/vi/b4EMZJ44sJs/maxresdefault.jpg" alt="Tutto d’un fiato: Le Forze, Forza Peso, Piano Inclinato, Forza Elastica, Vincoli, Tensione, Attrito" height="256">
   </a> 
   <!---
