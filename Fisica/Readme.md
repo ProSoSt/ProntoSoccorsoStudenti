@@ -20,7 +20,7 @@
   <a href="https://www.youtube.com/watch?v=K4gf_YanKFk&list=PL8nSPrZb28LTqfTAoRUl4sg6rCbrL2gwE">    
     <img src="./Immagini/Fisica_tutto_ d_un_fiato_256.jpg" alt="Fisica tutto d'un fiato">
   </a> 
-  <a href="https://www.youtube.com/playlist&list=PL8nSPrZb28LQ7NziB90W2tDkpI6NlpMVI">    
+  <a href="https://www.youtube.com/playlist?list=PL8nSPrZb28LQ7NziB90W2tDkpI6NlpMVI">    
     <img src="./Immagini/Fisica_Shorts_256.jpg" alt="Flashcards Corso di Fisica">
   </a>  
 </div>
