@@ -33,12 +33,12 @@
   <hr style="width: 50%; border: 1px solid #808080;">
 </div>
 
+#  **$${\color{orange} Macro-Argomenti }$$**
+
 <!---
 ## **Il Calcolo Letterale e i Monomi. Definizioni, Proprietà, Somme, Sottrazioni, Prodotti, Divisioni, MCD e mcm. Esempi ed Esercizi $${\color{orange}Playlist \space lezioni \space singole \space – \space Video \space con \space tutte \space le \space lezioni \space – \space Flashcards \space ( \space Video \space Short \space Verticali )}$$**
 -->
 ## **Il Calcolo Letterale e i Monomi. Definizioni, Proprietà, Somme, Sottrazioni, Prodotti, Divisioni, MCD e mcm. Esempi ed Esercizi $${\color{orange}Playlist \space lezioni \space singole}$$**
-
-
 
 <div align="center">
   <a href="https://www.youtube.com/watch?v=RRfM4uULU1I&list=PL8nSPrZb28LR20HbXb1t_Jp6M11QfAqKF">    
