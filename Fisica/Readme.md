@@ -30,6 +30,7 @@
 </div>
 
 #  $${\color{red}**Macro-Argomenti**}$$**
+$${\color{orange}Playlist \space lezioni \space singole \space – \space Video \space con \space tutte \space le \space lezioni \space – \space Flashcards \space ( \space Video \space Short \space Verticali )}$$**
 
 ## **Grandezze Fisiche e Sistema Internazionale di Unità di Misura. Esempi ed Esercizi $${\color{orange}Playlist \space lezioni \space singole \space – \space Video \space con \space tutte \space le \space lezioni \space – \space Flashcards \space ( \space Video \space Short \space Verticali )}$$**
 
