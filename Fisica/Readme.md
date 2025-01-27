@@ -29,8 +29,7 @@
   <hr style="width: 50%; border: 1px solid #808080;">
 </div>
 
-#  $${\color{red}**Macro-Argomenti**}$$
-#  $${\color{orange}Playlist \space lezioni \space singole \space – \space Video \space con \space tutte \space le \space lezioni \space – \space Flashcards \space ( \space Video \space Short \space Verticali )}$$**
+#  **$${\color{red}**Macro-Argomenti**}$$**
 
 ## **Grandezze Fisiche e Sistema Internazionale di Unità di Misura. Esempi ed Esercizi $${\color{orange}Playlist \space lezioni \space singole \space – \space Video \space con \space tutte \space le \space lezioni \space – \space Flashcards \space ( \space Video \space Short \space Verticali )}$$**
 
