@@ -80,7 +80,7 @@
   </a>
 
   <a href="https://www.youtube.com/watch?v=RF4U6lnFMww&list=PL8nSPrZb28LR20HbXb1t_Jp6M11QfAqKF">
-    <img src="https://i.ytimg.com/vi/0QJpb6LIIXU/maxresdefault.jpg" alt="Espressioni con Divisione di Monomi – Divisione, Somma, Prodotto e Potenza" height="256">   
+    <img src="https://i.ytimg.com/vi/RF4U6lnFMww/maxresdefault.jpg" alt="Espressioni con Divisione di Monomi – Divisione, Somma, Prodotto e Potenza" height="256">   
   </a>
 </div>
 
