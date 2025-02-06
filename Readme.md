@@ -65,7 +65,7 @@ La prima sezione è destinata alle lezioni di Fisica per le scuole superiori. Pe
    - Serie di video “shorts” ricavati dalle lezioni. Sono video di durata inferiore al minuto (**flashcards**) che possono essere scorsi velocemente allo scopo di facilitare il ripasso o semplicemente per curiosità. Sono disponibili anche delle playlist organizzate per singolo macro-argomento:
      - **Il Calcolo Letterale e i Monomi (in futuro)**
 
-<br>
+  
 ## Lezioni di Fisica
 
 La Seconda sezione è destinata alle lezioni di Fisica per le scuole superiori. Per questa materia sono disponibili diverse playlists:  
@@ -86,7 +86,7 @@ La Seconda sezione è destinata alle lezioni di Fisica per le scuole superiori. 
      - **I Vettori e gli Scalari**
      - **Le Forze**
 
-<br>
+  
 ## Pillole di Curiosità
 
 La terza sezione è quella delle “Pillole di Curiosità”. Si tratta di brevi video in cui condivido con voi alcune curiosità, in genere di carattere scientifico, ma non solo. Per questa materia sono disponibili 2 playlists:  
@@ -94,7 +94,7 @@ La terza sezione è quella delle “Pillole di Curiosità”. Si tratta di brevi
  - **Pillole di Curiosità – Flashcards (Tablet o Smartphone)**
    - Serie di video “shorts” ricavati dalle Pillole di Curiosità. Sono video di durata inferiore al minuto (**flashcards**) che possono essere scorsi velocemente
 
-<br>
+  
 ## Pillole di Storia
 
 La quarta sezione è quella delle “Pillole di Storia”. Si tratta di brevi video in cui condivido con voi alcune curiosità storiche in merito ad eventi, personaggi e luoghi. Per questo argomento sono disponibili 2 playlists:  
