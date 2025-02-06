@@ -53,7 +53,7 @@ Il canale ad oggi è suddiviso nelle seguenti sezioni:
   </a>
 </div>
 
-## Lezioni di Matematica
+## $${\color{yellow}Lezioni \space di \space Matematica}$$
 
 La prima sezione è destinata alle lezioni di Fisica per le scuole superiori. Per questa materia sono disponibili diverse playlists:  
  - **Corso di Matematica**
