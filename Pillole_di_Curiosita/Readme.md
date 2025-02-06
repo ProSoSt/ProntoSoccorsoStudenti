@@ -2,22 +2,21 @@
 
 Raccolta di brevi video su curiosità e argomenti di cultura generale. Tutto ciò che dovete sapere in modo sintetico e completo.
 
-<!---
-  
 ## **Playlist complete**
 
 <div align="center">
-  <a href="https://www.youtube.com/watch?v=brGLhdNkYBs&list=PL8nSPrZb28LQMWy1P7IlFdAgczNo_1CSp&index=1&t=6s">    
-    <img src="./Immagini/Corso_di_Fisica_256.jpg" alt="Corso di Fisica">
+  <a href="https://www.youtube.com/watch?v=hp5HbJyu99s&list=PL8nSPrZb28LQtydTAPQ2NDifmkGimpkYX">    
+    <img src="./Immagini/Pillole_di_Curiosita_256.jpg" alt="Pillole di Curiosità">
   </a>     
+  <!--
   <a href="https://www.youtube.com/watch?v=K4gf_YanKFk&list=PL8nSPrZb28LTqfTAoRUl4sg6rCbrL2gwE&index=1&t=5s">    
     <img src="./Immagini/Fisica_tutto_ d_un_fiato_256.jpg" alt="Fisica tutto d'un fiato">
   </a> 
-  <a href="https://www.youtube.com/playlist?list=PL8nSPrZb28LQ7NziB90W2tDkpI6NlpMVI">    
-    <img src="./Immagini/Fisica_Shorts_256.jpg" alt="Flashcards Corso di Fisica">
+  -->
+  <a href="https://www.youtube.com/playlist?list=PL8nSPrZb28LTiROF_fMpQehGVJS1CVJ7K">    
+    <img src="./Immagini/Pillole_di_Curiosita_Shorts_256.jpg" alt="Flashcards Pillole di Curiosità">
   </a>  
 </div>
--->
 
 ## **Lista link alle Pillole di Curiosità**
 
