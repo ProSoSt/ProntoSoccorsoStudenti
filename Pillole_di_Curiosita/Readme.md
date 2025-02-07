@@ -21,21 +21,21 @@ Raccolta di brevi video su curiosità e argomenti di cultura generale. Tutto ci�
 ## **Lista link alle Pillole di Curiosità**
 
 <div align="center">
-  <div style="display: inline-block; margin: 10px;">
+  <div style="display: inline-block;">
     <a href="https://www.youtube.com/watch?v=hp5HbJyu99s&list=PL8nSPrZb28LQtydTAPQ2NDifmkGimpkYX">
       <img src="https://i.ytimg.com/vi/hp5HbJyu99s/maxresdefault.jpg" alt="Stima di Fermi, l’approssimazione fatta bene" height="256">
     </a>
     <p>Stima di Fermi, l’approssimazione fatta bene</p>
   </div>
 
-  <div style="display: inline-block; margin: 10px;">
+  <div style="display: inline-block;">
     <a href="https://www.youtube.com/watch?v=3_js1SLhORE&list=PL8nSPrZb28LQtydTAPQ2NDifmkGimpkYX">
       <img src="https://i.ytimg.com/vi/3_js1SLhORE/maxresdefault.jpg" alt="Equazione di Drake, Stima esistenza Civiltà Extraterrestri" height="256">
     </a>
     <p>Equazione di Drake, stima esistenza civiltà extraterrestri</p>
   </div>
 
-  <div style="display: inline-block; margin: 10px;">
+  <div style="display: inline-block;">
     <a href="https://www.youtube.com/watch?v=9Cz_lp2jzSY&list=PL8nSPrZb28LQtydTAPQ2NDifmkGimpkYX">
       <img src="https://i.ytimg.com/vi/9Cz_lp2jzSY/maxresdefault.jpg" alt="Paradosso di Fermi, dove sono gli alieni?" height="256">
     </a>
