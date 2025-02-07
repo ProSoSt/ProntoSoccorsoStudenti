@@ -29,7 +29,7 @@ Raccolta di brevi video su curiosità e argomenti di cultura generale. Tutto ci�
     <a href="https://www.youtube.com/watch?v=3_js1SLhORE&list=PL8nSPrZb28LQtydTAPQ2NDifmkGimpkYX">
       <img src="https://i.ytimg.com/vi/3_js1SLhORE/maxresdefault.jpg" alt="Equazione di Drake, Stima esistenza Civiltà Extraterrestri" height="256">
     </a>
-    <p>Stima di Fermi     —     Equazione di Drake</p>
+    <p>Stima di Fermi, l’approssimazione fatta bene — Equazione di Drake, Stima esistenza Civiltà Extraterrestri</p>
   </div>
 
   <!-- Seconda coppia di video -->
@@ -40,7 +40,7 @@ Raccolta di brevi video su curiosità e argomenti di cultura generale. Tutto ci�
     <a href="https://www.youtube.com/watch?v=kaR9QCw60R8&list=PL8nSPrZb28LQtydTAPQ2NDifmkGimpkYX">
       <img src="https://i.ytimg.com/vi/kaR9QCw60R8/maxresdefault.jpg" alt="Il Rasoio di Occam, la base del pensiero scientifico moderno" height="256">
     </a>
-    <p>Paradosso di Fermi     —     Il Rasoio di Occam</p>
+    <p>Paradosso di Fermi, dove sono gli alieni? — Il Rasoio di Occam, la base del pensiero scientifico moderno</p>
   </div>
 
   <!-- Terza coppia di video -->
@@ -51,7 +51,7 @@ Raccolta di brevi video su curiosità e argomenti di cultura generale. Tutto ci�
     <a href="https://www.youtube.com/watch?v=QSqsRJPuOGw&list=PL8nSPrZb28LQtydTAPQ2NDifmkGimpkYX">
       <img src="https://i.ytimg.com/vi/QSqsRJPuOGw/maxresdefault.jpg" alt="I Continenti, cosa sono e quanti sono" height="256">
     </a>
-    <p>Il Principio di Pareto     —     I Continenti</p>
+    <p>Il Principio di Pareto, la legge 80/20 tra cause ed effetti — I Continenti, cosa sono e quanti sono</p>
   </div>
 
   <!-- Quarta coppia di video -->
@@ -62,7 +62,7 @@ Raccolta di brevi video su curiosità e argomenti di cultura generale. Tutto ci�
     <a href="https://www.youtube.com/watch?v=tdAIH9fguLM&list=PL8nSPrZb28LQtydTAPQ2NDifmkGimpkYX">
       <img src="https://i.ytimg.com/vi/tdAIH9fguLM/maxresdefault.jpg" alt="La Sospensione dell'Incredulità, perché ci piacciono i libri e i film" height="256">
     </a>
-    <p>L’effetto Dunning Kruger     —     La Sospensione dell'Incredulità</p>
+    <p>L’effetto Dunning Kruger, quanto conosci te stesso? — La Sospensione dell'Incredulità, perché ci piacciono i libri e i film</p>
   </div>
 
   <!-- Quinta coppia di video -->
@@ -73,7 +73,7 @@ Raccolta di brevi video su curiosità e argomenti di cultura generale. Tutto ci�
     <a href="https://www.youtube.com/watch?v=cyw4EUIWRS8&list=PL8nSPrZb28LQtydTAPQ2NDifmkGimpkYX">
       <img src="https://i.ytimg.com/vi/cyw4EUIWRS8/maxresdefault.jpg" alt="L'impronta di Carbonio, come misurare l’emissione di gas serra" height="256">
     </a>
-    <p>L'impronta Ecologica     —     L'impronta di Carbonio</p>
+    <p>L'impronta Ecologica, il consumo delle risorse e l’impatto ambientale sostenibile — L'impronta di Carbonio, come misurare l’emissione di gas serra</p>
   </div>
 
   <!-- Sesta coppia di video -->
@@ -84,7 +84,7 @@ Raccolta di brevi video su curiosità e argomenti di cultura generale. Tutto ci�
     <a href="https://www.youtube.com/watch?v=Bp8Mu59lVsc&list=PL8nSPrZb28LQtydTAPQ2NDifmkGimpkYX">
       <img src="https://i.ytimg.com/vi/Bp8Mu59lVsc/maxresdefault.jpg" alt="Il Paradosso di Easterlin, perché i soldi non danno la felicità" height="256">
     </a>
-    <p>Le Pseudoscienze     —     Il Paradosso di Easterlin</p>
+    <p>Le Pseudoscienze, tutto ciò che non è scienza — Il Paradosso di Easterlin, perché i soldi non danno la felicità</p>
   </div>
 
   <!-- Settima coppia di video -->
@@ -93,8 +93,9 @@ Raccolta di brevi video su curiosità e argomenti di cultura generale. Tutto ci�
       <img src="https://i.ytimg.com/vi/nKxTfZarcvc/maxresdefault.jpg" alt="MBTI, l’indicatore di personalità di Myers-Briggs – Dalla teoria alle critiche" height="256">
     </a>
   </div>
-  <p>MBTI, l’indicatore di personalità di Myers-Briggs</p>
+  <p>MBTI, l’indicatore di personalità di Myers-Briggs – Dalla teoria alle critiche</p>
 </div>
+
 
 <!--
 <div align="center">
