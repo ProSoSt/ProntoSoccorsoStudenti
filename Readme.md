@@ -40,7 +40,7 @@ Il canale ad oggi è suddiviso nelle seguenti sezioni:
 
 <div align="center">  
   <a href="Matematica/Readme.md">
-    <img src="./Immagini/Corso_di_Matematica_256.jpg" alt="Lezioni di Fisica" title="Pagina Lezioni/Corso di Matematica">
+    <img src="./Immagini/Corso_di_Matematica_256.jpg" alt="Lezioni di Matematica" title="Pagina Lezioni/Corso di Matematica">
   </a>
   <a href="Fisica/Readme.md">
     <img src="./Immagini/Corso_di_Fisica_256.jpg" alt="Lezioni di Fisica" title="Pagina Lezioni/Corso di Fisica">
