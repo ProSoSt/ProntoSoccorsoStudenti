@@ -55,7 +55,7 @@ Il canale ad oggi è suddiviso nelle seguenti sezioni:
 
 ## $${\color{orange}Lezioni \space di \space Matematica}$$
 
-La prima sezione è destinata alle lezioni di Fisica per le scuole superiori. Per questa materia sono disponibili diverse playlists:  
+La prima sezione è destinata alle lezioni di Matematica per le scuole superiori. Per questa materia sono disponibili diverse playlists:  
  - **Corso di Matematica**
    - Corso organizzato per lezioni e per macro-argomenti. Ogni macro-argomento è suddiviso in lezioni di circa 10 minuti. Sono disponibili anche delle playlist organizzate per singolo macro-argomento:
      - **Il Calcolo Letterale e i Monomi**
