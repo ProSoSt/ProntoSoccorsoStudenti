@@ -1,7 +1,7 @@
 # $${\color{yellow}Pronto \space Soccorso \space Studenti}$$
-Benvenuti e benvenute  nel repository del canale di $${\color{orange}“Pronto \space soccorso \space studenti”}$$, il canale tematico pensato per fornire supporto agli studenti in merito alle materie scientifiche ma non solo.   
+Benvenuti e benvenute nel repository del canale di $${\color{orange}“Pronto \space soccorso \space studenti”}$$, il canale tematico pensato per fornire supporto agli studenti in merito alle materie scientifiche ma non solo.   
 Qui troverete i link al canale ed ai video caricati su $${\color{orange}Youtube}$$, organizzati in modo semplice e funzionale.  
-Sotto il link per accedere dierettamente al canale.  
+Sotto il link per accedere direttamente al canale.  
 
 <p align="center">
   <a href="https://www.youtube.com/channel/UCbPZP1NdbHJ8ZCrzPoYSNLw" title="Canale Youtube Pronto Soccorso Studenti">
