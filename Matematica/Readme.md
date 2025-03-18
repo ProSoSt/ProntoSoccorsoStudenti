@@ -35,23 +35,12 @@
 
 #  **$${\color{orange} Macro-Argomenti }$$**
 
-	 
 ## **I Monomi. $${\color{orange}Playlist \space lezioni \space singole \space – \space Video \space con \space tutte \space le \space lezioni}$$**
-   
-																																																  
 
 <div align="center">
   <a href="https://www.youtube.com/watch?v=RRfM4uULU1I&list=PL8nSPrZb28LR20HbXb1t_Jp6M11QfAqKF">
     <img src="./Immagini/10_Il_Calcolo_Letterale.jpg" alt="I Monomi">
-		
-	   
-																									
-																																											
-		 
-																						 
-																																														 
   </a>
-	 
 </div>
 
 <div align="center">
