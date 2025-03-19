@@ -89,10 +89,12 @@
   <hr style="width: 50%; border: 1px solid #808080;">
 </div>
 
-## **I Polinomi. $${\color{orange}Playlist \space lezioni \space singole}$$**
+## **I Polinomi. $${\color{orange}Playlist \space lezioni \space singole \space – \space Video \space con \space tutte \space le \space lezioni}$$**
 
 <div align="center">
-
+  <a href="https://www.youtube.com/watch?v=0iwHSe4Ey88&list=PL8nSPrZb28LS765a0AyGUgwQEc2gwGV-o">
+    <img src="./Immagini/20_I_Polinomi.jpg" alt="I Polinomi">
+  </a>
 </div>
 
 <div align="center">
