@@ -106,7 +106,11 @@
     <img src="https://i.ytimg.com/vi/0iwHSe4Ey88/maxresdefault.jpg" alt="Introduzione ai Polinomi – Tutte le definizioni e Proprietà" height="256">
   </a>
 
-  <p>Introduzione ai Polinomi – Tutte le definizioni e Proprietà</p>
+  <a href="https://www.youtube.com/watch?v=DQ0V9OA1vtc&list=PL8nSPrZb28LS765a0AyGUgwQEc2gwGV-o">
+    <img src="https://i.ytimg.com/vi/DQ0V9OA1vtc/maxresdefault.jpg" alt="Operazioni con i Polinomi  – Somma algebrica e Prodotti – Teoria ed Esercizi" height="256">
+  </a>
+
+  <p>Introduzione ai Polinomi – Tutte le definizioni e Proprietà — Operazioni con i Polinomi  – Somma algebrica e Prodotti – Teoria ed Esercizi</p>
 </div>
 
 <div align="center">
