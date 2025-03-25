@@ -52,6 +52,7 @@ La prima sezione è destinata alle lezioni di Matematica per le scuole superiori
  - **Matematica – Flashcards (Tablet o Smartphone)**
    - Serie di video “shorts” ricavati dalle lezioni. Sono video di durata inferiore al minuto (**flashcards**) che possono essere scorsi velocemente allo scopo di facilitare il ripasso o semplicemente per curiosità. Sono disponibili anche delle playlist organizzate per singolo macro-argomento:
      - **Il Calcolo Letterale e i Monomi (in futuro)**
+     - **I Polinomi (in futuro)**
 
 ## $${\color{orange}Lezioni \space di \space Fisica}$$
 
@@ -73,16 +74,28 @@ La Seconda sezione è destinata alle lezioni di Fisica per le scuole superiori. 
      - **I Vettori e gli Scalari**
      - **Le Forze**
 
+## $${\color{orange}Appunti \space di \space Storia}$$
+
+La terza sezione è destinata agli appunti di Storia per le scuole superiori. Per questa materia sono disponibili diverse playlists:
+ - **Appunti di Storia**
+   - Appunti organizzato per argomenti e per macro-argomenti. Ogni macro-argomento è suddiviso in lezioni di circa 10 minuti. Sono disponibili anche delle playlist organizzate per singolo macro-argomento:
+     - **Il Calcolo Letterale e i Monomi**
+ - **Storia tutto d’un fiato**
+   - Video completi di ogni macro-argomento in cui sono messe assieme e in modo ordinato tutte le lezioni (in futuro)
+ - **Storia – Flashcards (Tablet o Smartphone)**
+   - Serie di video “shorts” ricavati dalle lezioni. Sono video di durata inferiore al minuto (**flashcards**) che possono essere scorsi velocemente allo scopo di facilitare il ripasso o semplicemente per curiosità. Sono disponibili anche delle playlist organizzate per singolo macro-argomento:
+     - **La Preistoria (in futuro)**
+
 ## $${\color{orange}Pillole \space di \space Curiosità}$$
 
-La terza sezione è quella delle “Pillole di Curiosità”. Si tratta di brevi video in cui condivido con voi alcune curiosità, in genere di carattere scientifico, ma non solo. Per questa materia sono disponibili 2 playlists:
+La quarta sezione è quella delle “Pillole di Curiosità”. Si tratta di brevi video in cui condivido con voi alcune curiosità, in genere di carattere scientifico, ma non solo. Per questa materia sono disponibili 2 playlists:
  - **Pillole di Curiosità**
  - **Pillole di Curiosità – Flashcards (Tablet o Smartphone)**
    - Serie di video “shorts” ricavati dalle Pillole di Curiosità. Sono video di durata inferiore al minuto (**flashcards**) che possono essere scorsi velocemente
 
 ## $${\color{orange}Pillole \space di \space Storia}$$
 
-La quarta sezione è quella delle “Pillole di Storia”. Si tratta di brevi video in cui condivido con voi alcune curiosità storiche in merito ad eventi, personaggi e luoghi. Per questo argomento sono disponibili 2 playlists:
+La quinta sezione è quella delle “Pillole di Storia”. Si tratta di brevi video in cui condivido con voi alcune curiosità storiche in merito ad eventi, personaggi e luoghi. Per questo argomento sono disponibili 2 playlists:
  - **Pillole di Storia**
  - **Pillole di Storia – Flashcards (Tablet o Smartphone)**
    - Serie di video “shorts” ricavati dalle Pillole di Curiosità. Sono video di durata inferiore al minuto (**flashcards**) che possono essere scorsi velocemente (in futuro)
