@@ -1,56 +1,102 @@
-# **Appunti di Storia**
+# $${\color{yellow}Pronto \space Soccorso \space Studenti}$$
+Benvenuti e benvenute nel repository del canale di $${\color{orange}“Pronto \space soccorso \space studenti”}$$, il canale tematico pensato per fornire supporto agli studenti in merito alle materie scientifiche ma non solo.
+Qui troverete i link al canale ed ai video caricati su $${\color{orange}Youtube}$$, organizzati in modo semplice e funzionale.
+Sotto il link per accedere direttamente al canale.
 
+<p align="center">
+  <a href="https://www.youtube.com/channel/UCbPZP1NdbHJ8ZCrzPoYSNLw" title="Canale Youtube Pronto Soccorso Studenti">
+    <img src="./Immagini/Logo_01_Icona_256.jpg?raw=true" alt="Canale Youtube Pronto Soccorso Studenti">
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://www.youtube.com/channel/UCbPZP1NdbHJ8ZCrzPoYSNLw">Visita il canale Youtube Pronto Soccorso Studenti</a>
+</p>
+
+[![Presentazione canale Pronto Soccorso studenti](https://img.youtube.com/vi/i71C2iz52zk/maxresdefault.jpg)](https://www.youtube.com/channel/UCbPZP1NdbHJ8ZCrzPoYSNLw)
+
+Il canale ad oggi è suddiviso nelle seguenti sezioni:
+
+ - **Lezioni/Corso di Matematica** <a href="Matematica/Readme.md" title="Pagina Lezioni/Corso di Matematica "> • Pagina Link Video su Youtube </a>
+ - **Lezioni/Corso di Fisica** <a href="Fisica/Readme.md" title="Pagina Lezioni/Corso di Fisica "> • Pagina Link Video su Youtube </a>
+ - **Appunti di Storia** <a href="Storia/Readme.md" title="Pagina Appunti di Storia "> • Pagina Link Video su Youtube </a>
+ - **Pillole di Curiosità**  <a href="Pillole_di_Curiosita/Readme.md" title="Pagina Pillole di Curiosità "> • Pagina Link Video su Youtube </a>
+ - **Pillole di Storia**  <a href="Pillole_di_Storia/Readme.md" title="Pagina Pillole di Storia "> • Pagina Link Video su Youtube </a>
+
+<div align="center">
+  <a href="Matematica/Readme.md">
+    <img src="./Immagini/Corso_di_Matematica_256.jpg" alt="Lezioni di Matematica" title="Pagina Lezioni/Corso di Matematica">
+  </a>
+  <a href="Fisica/Readme.md">
+    <img src="./Immagini/Corso_di_Fisica_256.jpg" alt="Lezioni di Fisica" title="Pagina Lezioni/Corso di Fisica">
+  </a>
+  <a href="Storia/Readme.md">
+    <img src="./Immagini/Appunti_di_Storia_256.jpg" alt="Lezioni di Storia" title="Pagina Appunti di Storia">
+  </a>
+  <a href="Pillole_di_Curiosita/Readme.md">
+    <img src="./Immagini/Pillole_di_Curiosita_256.jpg" alt="Pillole di Curiosità" title="Pillole di Curiosità">
+  </a>
+  <a href="Pillole_di_Storia/Readme.md">
+    <img src="./Immagini/Pillole_di_Storia_256.jpg" alt="Pillole di Storia" title="Pillole di Storia">
+  </a>
+</div>
+
+## $${\color{orange}Lezioni \space di \space Matematica}$$
+
+La prima sezione è destinata alle lezioni di Matematica per le scuole superiori. Per questa materia sono disponibili diverse playlists:
+ - **Corso di Matematica**
+   - Corso organizzato per lezioni e per macro-argomenti. Ogni macro-argomento è suddiviso in lezioni di circa 10 minuti. Sono disponibili anche delle playlist organizzate per singolo macro-argomento:
+     - **Il Calcolo Letterale e i Monomi**
+     - **I Polinomi**
+ - **Matematica tutto d’un fiato**
+   - Video completi di ogni macro-argomento in cui sono messe assieme e in modo ordinato tutte le lezioni (in futuro)
+ - **Matematica – Flashcards (Tablet o Smartphone)**
+   - Serie di video “shorts” ricavati dalle lezioni. Sono video di durata inferiore al minuto (**flashcards**) che possono essere scorsi velocemente allo scopo di facilitare il ripasso o semplicemente per curiosità. Sono disponibili anche delle playlist organizzate per singolo macro-argomento:
+     - **Il Calcolo Letterale e i Monomi (in futuro)**
+     - **I Polinomi (in futuro)**
+
+## $${\color{orange}Lezioni \space di \space Fisica}$$
+
+La Seconda sezione è destinata alle lezioni di Fisica per le scuole superiori. Per questa materia sono disponibili diverse playlists:
+ - **Corso di Fisica**
+   - Corso organizzato per lezioni e per macro-argomenti. Ogni macro-argomento è suddiviso in lezioni di circa 10 minuti. Sono disponibili anche delle playlist organizzate per singolo macro-argomento:
+     - **Grandezze Fisiche e Sistema Internazionale di Unità di Misura**
+     - **Misure di Grandezze Fisiche**
+     - **Rappresentazione Dati**
+     - **I Vettori e gli Scalari**
+     - **Le Forze**
+ - **Fisica tutto d’un fiato**
+   - Video completi di ogni macro-argomento in cui sono messe assieme e in modo ordinato tutte le lezioni
+ - **Fisica – Flashcards (Tablet o Smartphone)**
+   - Serie di video “shorts” ricavati dalle lezioni. Sono video di durata inferiore al minuto (**flashcards**) che possono essere scorsi velocemente allo scopo di facilitare il ripasso o semplicemente per curiosità. Sono disponibili anche delle playlist organizzate per singolo macro-argomento:
+     - **Grandezze Fisiche e Sistema Internazionale di Unità di Misura**
+     - **Misure di Grandezze Fisiche**
+     - **Rappresentazione Dati**
+     - **I Vettori e gli Scalari**
+     - **Le Forze**
+
+## $${\color{orange}Appunti \space di \space Storia}$$
+
+La terza sezione è destinata agli appunti di Storia per le scuole superiori. Per questa materia sono disponibili diverse playlists:
  - **Appunti di Storia**
-   - Appunti organizzati per lezioni e per macro-argomenti. Ogni macro-argomento è suddiviso in lezioni di circa 10 minuti. Sono disponibili anche delle playlist specifiche organizzate per singolo macro-argomento.
+   - Appunti organizzato per argomenti e per macro-argomenti. Ogni macro-argomento è suddiviso in lezioni di circa 10 minuti. Sono disponibili anche delle playlist organizzate per singolo macro-argomento:
+     - **La Preistoria**
+ - **Storia tutto d’un fiato**
+   - Video completi di ogni macro-argomento in cui sono messe assieme e in modo ordinato tutte le lezioni (in futuro)
+ - **Storia – Flashcards (Tablet o Smartphone)**
+   - Serie di video “shorts” ricavati dalle lezioni. Sono video di durata inferiore al minuto (**flashcards**) che possono essere scorsi velocemente allo scopo di facilitare il ripasso o semplicemente per curiosità. Sono disponibili anche delle playlist organizzate per singolo macro-argomento:
+     - **La Preistoria (in futuro)**
 
-<div align="center">
-  <hr style="width: 50%; border: 1px solid #808080;">
-</div>
+## $${\color{orange}Pillole \space di \space Curiosità}$$
 
-## **Playlist complete (Link su Youtube)**
+La quarta sezione è quella delle “Pillole di Curiosità”. Si tratta di brevi video in cui condivido con voi alcune curiosità, in genere di carattere scientifico, ma non solo. Per questa materia sono disponibili 2 playlists:
+ - **Pillole di Curiosità**
+ - **Pillole di Curiosità – Flashcards (Tablet o Smartphone)**
+   - Serie di video “shorts” ricavati dalle Pillole di Curiosità. Sono video di durata inferiore al minuto (**flashcards**) che possono essere scorsi velocemente
 
-<div align="center">
-  <a href="https://www.youtube.com/watch?v=IzSPQYL99j0&list=PL8nSPrZb28LTzeXcnYToeVY11sh7hSgZG">
-    <img src="./Immagini/Appunti_di_Storia_256.jpg" alt="Appunti di Storia">
-  </a>
-</div>
+## $${\color{orange}Pillole \space di \space Storia}$$
 
-<div align="center">
-  <hr style="width: 50%; border: 1px solid #808080;">
-</div>
-
-#  **$${\color{orange} Macro-Argomenti }$$**
-
-## **La Preistoria. $${\color{orange}Playlist \space lezioni \space singole \space – \space Video \space con \space tutte \space le \space lezioni}$$**
-
-<div align="center">
-  <a href="https://www.youtube.com/watch?v=IzSPQYL99j0&list=PL8nSPrZb28LSpeJWoVcTWSg6RmfV5D7D-">
-    <img src="./Immagini/10_Preistoria.jpg" alt="La Preistoria">
-  </a>
-</div>
-
-<div align="center">
-  <h2>Lezioni Singole</h2>
-</div>
-
-<div align="center">
-  <a href="https://www.youtube.com/watch?v=IzSPQYL99j0&list=PL8nSPrZb28LSpeJWoVcTWSg6RmfV5D7D-">
-    <img src="https://i.ytimg.com/vi/IzSPQYL99j0/maxresdefault.jpg" alt="La Preistoria Parte II – Le 3 età della Pietra: Paleolitico, Mesolitico e Neolitico" height="256">
-  </a>
-
-  <a href="https://www.youtube.com/watch?v=pDMseQUFgZU&list=PL8nSPrZb28LSpeJWoVcTWSg6RmfV5D7D-">
-    <img src="https://i.ytimg.com/vi/pDMseQUFgZU/maxresdefault.jpg" alt="La Preistoria Parte I – L’evoluzione dell’uomo e le 3 Età della Pietra" height="256">
-  </a>
-
-  <p>La Preistoria Parte II – Le 3 età della Pietra: Paleolitico, Mesolitico e Neolitico — La Preistoria Parte I – L’evoluzione dell’uomo e le 3 Età della Pietra</p>
-
-  <a href="https://www.youtube.com/watch?v=UbaJdL_ODLA&list=PL8nSPrZb28LSpeJWoVcTWSg6RmfV5D7D-">
-    <img src="https://i.ytimg.com/vi/UbaJdL_ODLA/maxresdefault.jpg" alt="La Preistoria Parte III – L’evoluzione della civiltà nel Neolitico" height="256">
-  </a>
-
-  <p>La Preistoria Parte III – L’evoluzione della civiltà nel Neolitico</p>
-</div>
-
-<div align="center">
-  <hr style="width: 50%; border: 1px solid #808080;">
-</div>
+La quinta sezione è quella delle “Pillole di Storia”. Si tratta di brevi video in cui condivido con voi alcune curiosità storiche in merito ad eventi, personaggi e luoghi. Per questo argomento sono disponibili 2 playlists:
+ - **Pillole di Storia**
+ - **Pillole di Storia – Flashcards (Tablet o Smartphone)**
+   - Serie di video “shorts” ricavati dalle Pillole di Curiosità. Sono video di durata inferiore al minuto (**flashcards**) che possono essere scorsi velocemente (in futuro)
