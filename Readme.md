@@ -17,10 +17,11 @@ Sotto il link per accedere direttamente al canale.
 
 Il canale ad oggi è suddiviso nelle seguenti sezioni:
 
- - **Lezioni/Corso di Matematica** <a href="Matematica/Readme.md" title="Pagina Lezioni/Corso di Matematica "> • Pagina Link Video Youtube </a>
- - **Lezioni/Corso di Fisica** <a href="Fisica/Readme.md" title="Pagina Lezioni/Corso di Fisica "> • Pagina Link Video Youtube </a>
- - **Pillole di Curiosità**  <a href="Pillole_di_Curiosita/Readme.md" title="Pagina Pillole di Curiosità "> • Pagina Link Video Youtube </a>
- - **Pillole di Storia**  <a href="Pillole_di_Storia/Readme.md" title="Pagina Pillole di Storia "> • Pagina Link Video Youtube </a>
+ - **Lezioni/Corso di Matematica** <a href="Matematica/Readme.md" title="Pagina Lezioni/Corso di Matematica "> • Pagina Link Video su Youtube </a>
+ - **Lezioni/Corso di Fisica** <a href="Fisica/Readme.md" title="Pagina Lezioni/Corso di Fisica "> • Pagina Link Video su Youtube </a>
+ - **Appunti di Storia** <a href="Storia/Readme.md" title="Pagina Appunti di Storia "> • Pagina Link Video su Youtube </a>
+ - **Pillole di Curiosità**  <a href="Pillole_di_Curiosita/Readme.md" title="Pagina Pillole di Curiosità "> • Pagina Link Video su Youtube </a>
+ - **Pillole di Storia**  <a href="Pillole_di_Storia/Readme.md" title="Pagina Pillole di Storia "> • Pagina Link Video su Youtube </a>
 
 <div align="center">
   <a href="Matematica/Readme.md">
@@ -28,6 +29,9 @@ Il canale ad oggi è suddiviso nelle seguenti sezioni:
   </a>
   <a href="Fisica/Readme.md">
     <img src="./Immagini/Corso_di_Fisica_256.jpg" alt="Lezioni di Fisica" title="Pagina Lezioni/Corso di Fisica">
+  </a>
+  <a href="Storia/Readme.md">
+    <img src="./Immagini/Appunti_di_Storia_256.jpg" alt="Lezioni di Storia" title="Pagina Appunti di Storia">
   </a>
   <a href="Pillole_di_Curiosita/Readme.md">
     <img src="./Immagini/Pillole_di_Curiosita_256.jpg" alt="Pillole di Curiosità" title="Pillole di Curiosità">
