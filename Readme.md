@@ -47,6 +47,7 @@ La prima sezione è destinata alle lezioni di Matematica per le scuole superiori
  - **Corso di Matematica**
    - Corso organizzato per lezioni e per macro-argomenti. Ogni macro-argomento è suddiviso in lezioni di circa 10 minuti. Sono disponibili anche delle playlist organizzate per singolo macro-argomento:
      - **Il Calcolo Letterale e i Monomi**
+     - **I Polinomi**
  - **Matematica tutto d’un fiato**
    - Video completi di ogni macro-argomento in cui sono messe assieme e in modo ordinato tutte le lezioni (in futuro)
  - **Matematica – Flashcards (Tablet o Smartphone)**
@@ -79,7 +80,7 @@ La Seconda sezione è destinata alle lezioni di Fisica per le scuole superiori. 
 La terza sezione è destinata agli appunti di Storia per le scuole superiori. Per questa materia sono disponibili diverse playlists:
  - **Appunti di Storia**
    - Appunti organizzato per argomenti e per macro-argomenti. Ogni macro-argomento è suddiviso in lezioni di circa 10 minuti. Sono disponibili anche delle playlist organizzate per singolo macro-argomento:
-     - **Il Calcolo Letterale e i Monomi**
+     - **La Preistoria**
  - **Storia tutto d’un fiato**
    - Video completi di ogni macro-argomento in cui sono messe assieme e in modo ordinato tutte le lezioni (in futuro)
  - **Storia – Flashcards (Tablet o Smartphone)**
