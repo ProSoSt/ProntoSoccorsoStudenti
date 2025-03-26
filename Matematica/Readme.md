@@ -92,7 +92,7 @@
 ## **I Polinomi. $${\color{orange}Playlist \space lezioni \space singole \space – \space Video \space con \space tutte \space le \space lezioni}$$**
 
 <div align="center">
-  <a href="https://www.youtube.com/watch?v=0iwHSe4Ey88&list=PL8nSPrZb28LS765a0AyGUgwQEc2gwGV-o">
+  <a href="https://www.youtube.com/watch?v=DQ0V9OA1vtc&list=PL8nSPrZb28LS765a0AyGUgwQEc2gwGV-o">
     <img src="./Immagini/20_I_Polinomi.jpg" alt="I Polinomi">
   </a>
 </div>
@@ -102,15 +102,15 @@
 </div>
 
 <div align="center">
-  <a href="https://www.youtube.com/watch?v=0iwHSe4Ey88&list=PL8nSPrZb28LS765a0AyGUgwQEc2gwGV-o">
-    <img src="https://i.ytimg.com/vi/0iwHSe4Ey88/maxresdefault.jpg" alt="Introduzione ai Polinomi – Tutte le definizioni e Proprietà" height="256">
-  </a>
-
   <a href="https://www.youtube.com/watch?v=DQ0V9OA1vtc&list=PL8nSPrZb28LS765a0AyGUgwQEc2gwGV-o">
     <img src="https://i.ytimg.com/vi/DQ0V9OA1vtc/maxresdefault.jpg" alt="Operazioni con i Polinomi  – Somma algebrica e Prodotti – Teoria ed Esercizi" height="256">
   </a>
 
-  <p>Introduzione ai Polinomi – Tutte le definizioni e Proprietà — Operazioni con i Polinomi  – Somma algebrica e Prodotti – Teoria ed Esercizi</p>
+  <a href="https://www.youtube.com/watch?v=0iwHSe4Ey88&list=PL8nSPrZb28LS765a0AyGUgwQEc2gwGV-o">
+    <img src="https://i.ytimg.com/vi/0iwHSe4Ey88/maxresdefault.jpg" alt="Introduzione ai Polinomi – Tutte le definizioni e Proprietà" height="256">
+  </a>
+
+  <p>Operazioni con i Polinomi  – Somma algebrica e Prodotti – Teoria ed Esercizi — Introduzione ai Polinomi – Tutte le definizioni e Proprietà</p>
 </div>
 
 <div align="center">

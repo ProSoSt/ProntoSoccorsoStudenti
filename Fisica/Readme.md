@@ -55,10 +55,10 @@
   </a>
 
   <a href="https://www.youtube.com/watch?v=Ob7WPqHzrBc&list=PL8nSPrZb28LRmwCbmUB8t3dEBmuw6-zNt">
-    <img src="https://i.ytimg.com/vi/Ob7WPqHzrBc/maxresdefault.jpg" alt="Grandezze Fisiche  e Sistema Internazionale di unità di misura – Parte 2" height="256">
+    <img src="https://i.ytimg.com/vi/Ob7WPqHzrBc/maxresdefault.jpg" alt="Grandezze Fisiche e Sistema Internazionale di Unità di Misura – Parte 2" height="256">
   </a>
 
-  <p>Grandezze Fisiche e Sistema Internazionale di Unità di Misura – Parte 1 — Grandezze Fisiche  e Sistema Internazionale di unità di misura – Parte 2</p>
+  <p>Grandezze Fisiche e Sistema Internazionale di Unità di Misura – Parte 1 — Grandezze Fisiche e Sistema Internazionale di Unità di Misura – Parte 2</p>
 </div>
 
 <div align="center">
