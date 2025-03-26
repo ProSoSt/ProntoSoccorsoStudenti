@@ -9,7 +9,7 @@ Raccolta di brevi video su curiosità storiche su eventi, personaggi e luoghi. T
 ## **Playlist complete (Link su Youtube)**
 
 <div align="center">
-  <a href="https://www.youtube.com/watch?v=hp5HbJyu99s&list=PL8nSPrZb28LSWSMI0PIekshXIe-4rizZz">
+  <a href="https://www.youtube.com/watch?v=xfG6tgX9wLM&list=PL8nSPrZb28LSWSMI0PIekshXIe-4rizZz">
     <img src="./Immagini/Libri_in_5_Minuti_256.jpg" alt="Libri in 5 Minuti">
 </div>
 
