@@ -19,7 +19,7 @@ Raccolta di brevi video su curiosità e argomenti di cultura generale. Tutto ci�
 
 ## **Lista link alle Pillole di Curiosità**
 
-## **. $${\color{orange}Playlist \space lezioni \space singole}$$**
+## **. $${\color{orange}Playlist \space Pillole \space di \space curiosità}$$**
 
 <div align="center">
 
