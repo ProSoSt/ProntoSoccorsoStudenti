@@ -109,5 +109,3 @@ La quinta sezione è quella delle “Pillole di Storia”. Si tratta di brevi vi
 
 La sesta sezione è quella di “Libri in 5 Minuti”. Si tratta di una collezione di Recensioni e Trame di Libri YA (Young Adult - per adolescenti). Tutto ciò che dovete sapere in modo sintetico e completo. Per questo argomento è disponibile una playlist:
  - **Libri in 5 minuti**
-
-![Visite](https://komarev.com/ghpvc/?username=TUO_USERNAME&color=blue)
