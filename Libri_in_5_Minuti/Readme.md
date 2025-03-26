@@ -15,7 +15,7 @@ Collezione di Recensioni e Trame di Libri YA (Young Adult - per adolescenti). Tu
 
 ## **Lista link ai video Youtube di Libri in 5 Minuti**
 
-## **. $${\color{orange}Playlist \space Linri \space in \space 5 \space Minuti}$$**
+## **. $${\color{orange}Playlist \space Libri \space in \space 5 \space Minuti}$$**
 
 <div align="center">
 
