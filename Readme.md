@@ -39,6 +39,9 @@ Il canale ad oggi è suddiviso nelle seguenti sezioni:
   <a href="Pillole_di_Storia/Readme.md">
     <img src="./Immagini/Pillole_di_Storia_256.jpg" alt="Pillole di Storia" title="Pillole di Storia">
   </a>
+  <a href="Libri_in_5_Minuti/Readme.md">
+    <img src="./Immagini/Libri_in_5_Minuti_256.jpg" alt="Libri in 5 Minuti" title="Libri in 5 Minuti">
+  </a>
 </div>
 
 ## $${\color{orange}Lezioni \space di \space Matematica}$$
@@ -100,3 +103,8 @@ La quinta sezione è quella delle “Pillole di Storia”. Si tratta di brevi vi
  - **Pillole di Storia**
  - **Pillole di Storia – Flashcards (Tablet o Smartphone)**
    - Serie di video “shorts” ricavati dalle Pillole di Curiosità. Sono video di durata inferiore al minuto (**flashcards**) che possono essere scorsi velocemente (in futuro)
+
+## $${\color{orange}Libri \space in \space 5 \space Minuti}$$
+
+La sesta sezione è quella di “Libri in 5 Minuti”. Si tratta di una collezione di Recensioni e Trame di Libri YA (Young Adult - per adolescenti). Tutto ciò che dovete sapere in modo sintetico e completo. Per questo argomento è disponibile una playlist:
+ - **Libri in 5 minuti**
