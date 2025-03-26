@@ -26,7 +26,7 @@ Raccolta di brevi video su curiosit√† e argomenti di cultura generale. Tutto ci√
 </div>
 
 <div align="center">
-  <h2>Lezioni Singole</h2>
+  <h2>Pillole</h2>
 </div>
 
 <div align="center">
