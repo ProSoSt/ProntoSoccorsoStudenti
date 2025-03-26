@@ -1,6 +1,6 @@
 # **Libri in 5 Minuti**
 
-Raccolta di brevi video su curiosità storiche su eventi, personaggi e luoghi. Tutto ciò che dovete sapere in modo sintetico e completo.
+Collezione di Recensioni e Trame di Libri YA (Young Adult - per adolescenti). Tutto ciò che dovete sapere in modo sintetico e completo.
 
 <div align="center">
   <hr style="width: 50%; border: 1px solid #808080;">
