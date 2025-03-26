@@ -22,6 +22,7 @@ Il canale ad oggi è suddiviso nelle seguenti sezioni:
  - **Appunti di Storia** <a href="Storia/Readme.md" title="Pagina Appunti di Storia "> • Pagina Link Video su Youtube </a>
  - **Pillole di Curiosità**  <a href="Pillole_di_Curiosita/Readme.md" title="Pagina Pillole di Curiosità "> • Pagina Link Video su Youtube </a>
  - **Pillole di Storia**  <a href="Pillole_di_Storia/Readme.md" title="Pagina Pillole di Storia "> • Pagina Link Video su Youtube </a>
+ - **Libri in 5 Minuti**  <a href="Libri_in_5_Minuti/Readme.md" title="Libri in 5 Minuti "> • Pagina Link Video su Youtube </a>
 
 <div align="center">
   <a href="Matematica/Readme.md">
