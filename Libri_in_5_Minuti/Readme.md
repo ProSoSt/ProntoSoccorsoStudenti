@@ -26,21 +26,21 @@ Collezione di Recensioni e Trame di Libri YA (Young Adult - per adolescenti). Tu
 </div>
 
 <div align="center">
-  <a href="https://www.youtube.com/watch?v=S2Z5hgWFwYQ&list=PL8nSPrZb28LSWSMI0PIekshXIe-4rizZz">
-    <img src="https://i.ytimg.com/vi/S2Z5hgWFwYQ/maxresdefault.jpg" alt="Percy Jackson e gli dei dell'Olimpo: Il ladro di fulmini - Recensione del libro" height="256">
+  <a href="https://www.youtube.com/watch?v=M_sKyG2SwcI&list=PL8nSPrZb28LSWSMI0PIekshXIe-4rizZz">
+    <img src="https://i.ytimg.com/vi/M_sKyG2SwcI/maxresdefault.jpg" alt="Harry Potter e la pietra filosofale - Recensione" height="256">
   </a>
 
   <a href="https://www.youtube.com/watch?v=xfG6tgX9wLM&list=PL8nSPrZb28LSWSMI0PIekshXIe-4rizZz">
     <img src="https://i.ytimg.com/vi/xfG6tgX9wLM/maxresdefault.jpg" alt="Harry Potter e la pietra filosofale - Trama del libro" height="256">
   </a>
 
-  <p>Percy Jackson e gli dei dell'Olimpo: Il ladro di fulmini - Recensione del libro — Harry Potter e la pietra filosofale - Trama del libro</p>
+  <p>Harry Potter e la pietra filosofale - Recensione — Harry Potter e la pietra filosofale - Trama del libro</p>
 
-  <a href="https://www.youtube.com/watch?v=M_sKyG2SwcI&list=PL8nSPrZb28LSWSMI0PIekshXIe-4rizZz">
-    <img src="https://i.ytimg.com/vi/M_sKyG2SwcI/maxresdefault.jpg" alt="Harry Potter e la pietra filosofale - Recensione" height="256">
+  <a href="https://www.youtube.com/watch?v=S2Z5hgWFwYQ&list=PL8nSPrZb28LSWSMI0PIekshXIe-4rizZz">
+    <img src="https://i.ytimg.com/vi/S2Z5hgWFwYQ/maxresdefault.jpg" alt="Percy Jackson e gli dei dell'Olimpo: Il ladro di fulmini - Recensione del libro" height="256">
   </a>
 
-  <p>Harry Potter e la pietra filosofale - Recensione</p>
+  <p>Percy Jackson e gli dei dell'Olimpo: Il ladro di fulmini - Recensione del libro</p>
 </div>
 
 <div align="center">
