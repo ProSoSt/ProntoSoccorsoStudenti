@@ -241,7 +241,17 @@
     <img src="https://i.ytimg.com/vi/550byhfPJok/maxresdefault.jpg" alt="Esercizi sulle Forze con Attriti, Molle, Piano Inclinato, Piano Verticale e Molle in Serie" height="256">
   </a>
 
-  <p>Esercizi sulle Forze con Attriti, Molle, Piano Inclinato, Piano Verticale e Molle in Serie</p>
+  <a href="https://www.youtube.com/watch?v=dTse3IueKRk&list=PL8nSPrZb28LRt2T23z9c_1X3PHDf_Pof0">
+    <img src="https://i.ytimg.com/vi/dTse3IueKRk/maxresdefault.jpg" alt="Esercizi introduttivi sulle forze 2 - Parte h #fisica #forze" height="256">
+  </a>
+
+  <p>Esercizi sulle Forze con Attriti, Molle, Piano Inclinato, Piano Verticale e Molle in Serie — Esercizi introduttivi sulle forze 2 - Parte h #fisica #forze</p>
+
+  <a href="https://www.youtube.com/watch?v=tQw0IQ2ods8&list=PL8nSPrZb28LRt2T23z9c_1X3PHDf_Pof0">
+    <img src="https://i.ytimg.com/vi/tQw0IQ2ods8/maxresdefault.jpg" alt="Esercizi introduttivi sulle forze 2 - Parte i #fisica #forze" height="256">
+  </a>
+
+  <p>Esercizi introduttivi sulle forze 2 - Parte i #fisica #forze</p>
 </div>
 
 <div align="center">

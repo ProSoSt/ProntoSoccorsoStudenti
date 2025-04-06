@@ -111,6 +111,12 @@
   </a>
 
   <p>Introduzione ai Polinomi – Tutte le definizioni e Proprietà — Operazioni con i Polinomi  – Somma algebrica e Prodotti – Teoria ed Esercizi</p>
+
+  <a href="https://www.youtube.com/watch?v=HAbfBcwYiYY&list=PL8nSPrZb28LS765a0AyGUgwQEc2gwGV-o">
+    <img src="https://i.ytimg.com/vi/HAbfBcwYiYY/maxresdefault.jpg" alt="I Prodotti Notevoli di polinomi – Teoria ed esercizi" height="256">
+  </a>
+
+  <p>I Prodotti Notevoli di polinomi – Teoria ed esercizi</p>
 </div>
 
 <div align="center">
