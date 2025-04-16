@@ -251,7 +251,27 @@
     <img src="https://i.ytimg.com/vi/tQw0IQ2ods8/maxresdefault.jpg" alt="Esercizi introduttivi sulle forze 2 - Parte i #fisica #forze" height="256">
   </a>
 
-  <p>Esercizi introduttivi sulle forze 2 - Parte i #fisica #forze</p>
+  <a href="https://www.youtube.com/watch?v=RlACZ8pKL6c&list=PL8nSPrZb28LRt2T23z9c_1X3PHDf_Pof0">
+    <img src="https://i.ytimg.com/vi/RlACZ8pKL6c/maxresdefault.jpg" alt="Esercizi introduttivi sulle forze 2 - Parte j #fisica #forze" height="256">
+  </a>
+
+  <p>Esercizi introduttivi sulle forze 2 - Parte i #fisica #forze — Esercizi introduttivi sulle forze 2 - Parte j #fisica #forze</p>
+
+  <a href="https://www.youtube.com/watch?v=95zcw4giEBU&list=PL8nSPrZb28LRt2T23z9c_1X3PHDf_Pof0">
+    <img src="https://i.ytimg.com/vi/95zcw4giEBU/maxresdefault.jpg" alt="La Forza Peso e la legge di Gravitazione Universale - Parte a #fisica #forze" height="256">
+  </a>
+
+  <a href="https://www.youtube.com/watch?v=Of-M-Mgfz88&list=PL8nSPrZb28LRt2T23z9c_1X3PHDf_Pof0">
+    <img src="https://i.ytimg.com/vi/Of-M-Mgfz88/maxresdefault.jpg" alt="La Forza Peso e la legge di Gravitazione Universale - Parte b #fisica #forze" height="256">
+  </a>
+
+  <p>La Forza Peso e la legge di Gravitazione Universale - Parte a #fisica #forze — La Forza Peso e la legge di Gravitazione Universale - Parte b #fisica #forze</p>
+
+  <a href="https://www.youtube.com/watch?v=WYbOx1L4P3g&list=PL8nSPrZb28LRt2T23z9c_1X3PHDf_Pof0">
+    <img src="https://i.ytimg.com/vi/WYbOx1L4P3g/maxresdefault.jpg" alt="La Forza Peso e la legge di Gravitazione Universale - Parte c #fisica #forze" height="256">
+  </a>
+
+  <p>La Forza Peso e la legge di Gravitazione Universale - Parte c #fisica #forze</p>
 </div>
 
 <div align="center">
