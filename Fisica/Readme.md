@@ -271,7 +271,11 @@
     <img src="https://i.ytimg.com/vi/WYbOx1L4P3g/maxresdefault.jpg" alt="La Forza Peso e la legge di Gravitazione Universale - Parte c #fisica #forze" height="256">
   </a>
 
-  <p>La Forza Peso e la legge di Gravitazione Universale - Parte c #fisica #forze</p>
+  <a href="https://www.youtube.com/watch?v=WAyxPjadx9g&list=PL8nSPrZb28LRt2T23z9c_1X3PHDf_Pof0">
+    <img src="https://i.ytimg.com/vi/WAyxPjadx9g/maxresdefault.jpg" alt="La Forza Peso e la legge di Gravitazione Universale - Parte d #fisica #forze" height="256">
+  </a>
+
+  <p>La Forza Peso e la legge di Gravitazione Universale - Parte c #fisica #forze — La Forza Peso e la legge di Gravitazione Universale - Parte d #fisica #forze</p>
 </div>
 
 <div align="center">
