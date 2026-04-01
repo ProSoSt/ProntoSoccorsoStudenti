@@ -10,7 +10,7 @@
     <loc>https://prosost.github.io/ProntoSoccorsoStudenti/en/index.html</loc>
   </url>
   <url>
-    <loc>https://prosost.github.io/ProntoSoccorsoStudenti/it/comics.html</loc>
+    <loc>https://prosost.github.io/ProntoSoccorsoStudenti/it/toons.html</loc>
   </url>
   <url>
     <loc>https://prosost.github.io/ProntoSoccorsoStudenti/it/old-time-radio.html</loc>
@@ -19,28 +19,28 @@
     <loc>https://prosost.github.io/ProntoSoccorsoStudenti/it/fisica.html</loc>
   </url>
   <url>
-    <loc>https://prosost.github.io/ProntoSoccorsoStudenti/it/toons.html</loc>
+    <loc>https://prosost.github.io/ProntoSoccorsoStudenti/it/libri.html</loc>
   </url>
   <url>
-    <loc>https://prosost.github.io/ProntoSoccorsoStudenti/it/libri.html</loc>
+    <loc>https://prosost.github.io/ProntoSoccorsoStudenti/it/superheroes.html</loc>
   </url>
   <url>
     <loc>https://prosost.github.io/ProntoSoccorsoStudenti/it/books.html</loc>
   </url>
   <url>
-    <loc>https://prosost.github.io/ProntoSoccorsoStudenti/it/matematica.html</loc>
+    <loc>https://prosost.github.io/ProntoSoccorsoStudenti/it/comics.html</loc>
   </url>
   <url>
-    <loc>https://prosost.github.io/ProntoSoccorsoStudenti/it/physics.html</loc>
+    <loc>https://prosost.github.io/ProntoSoccorsoStudenti/it/matematica.html</loc>
   </url>
   <url>
     <loc>https://prosost.github.io/ProntoSoccorsoStudenti/it/pillole.html</loc>
   </url>
   <url>
-    <loc>https://prosost.github.io/ProntoSoccorsoStudenti/it/storia.html</loc>
+    <loc>https://prosost.github.io/ProntoSoccorsoStudenti/it/physics.html</loc>
   </url>
   <url>
-    <loc>https://prosost.github.io/ProntoSoccorsoStudenti/it/superheroes.html</loc>
+    <loc>https://prosost.github.io/ProntoSoccorsoStudenti/it/storia.html</loc>
   </url>
   <url>
     <loc>https://prosost.github.io/ProntoSoccorsoStudenti/it/storia/appunti-storia.html</loc>
@@ -562,6 +562,9 @@
     <loc>https://prosost.github.io/ProntoSoccorsoStudenti/it/physics/mit-pssc-physics-films-classic.html</loc>
   </url>
   <url>
+    <loc>https://prosost.github.io/ProntoSoccorsoStudenti/it/physics/mit-pssc-physics-films-classic/mGE271TF9-Q.html</loc>
+  </url>
+  <url>
     <loc>https://prosost.github.io/ProntoSoccorsoStudenti/it/physics/mit-pssc-physics-films-classic/wUV1wydU8iQ.html</loc>
   </url>
   <url>
@@ -814,6 +817,9 @@
     <loc>https://prosost.github.io/ProntoSoccorsoStudenti/it/superheroes/adventures-of-superman-19401951-classic.html</loc>
   </url>
   <url>
+    <loc>https://prosost.github.io/ProntoSoccorsoStudenti/it/superheroes/adventures-of-superman-19401951-classic/enmrvV9r6ek.html</loc>
+  </url>
+  <url>
     <loc>https://prosost.github.io/ProntoSoccorsoStudenti/it/superheroes/adventures-of-superman-19401951-classic/quDtkisHWW4.html</loc>
   </url>
   <url>
@@ -832,22 +838,22 @@
     <loc>https://prosost.github.io/ProntoSoccorsoStudenti/it/matematica/matematica-problemi-maturita-svolti-passo/QNE5HzY6bAM.html</loc>
   </url>
   <url>
-    <loc>https://prosost.github.io/ProntoSoccorsoStudenti/en/comics.html</loc>
+    <loc>https://prosost.github.io/ProntoSoccorsoStudenti/en/toons.html</loc>
   </url>
   <url>
     <loc>https://prosost.github.io/ProntoSoccorsoStudenti/en/old-time-radio.html</loc>
   </url>
   <url>
-    <loc>https://prosost.github.io/ProntoSoccorsoStudenti/en/toons.html</loc>
+    <loc>https://prosost.github.io/ProntoSoccorsoStudenti/en/comics.html</loc>
+  </url>
+  <url>
+    <loc>https://prosost.github.io/ProntoSoccorsoStudenti/en/superheroes.html</loc>
   </url>
   <url>
     <loc>https://prosost.github.io/ProntoSoccorsoStudenti/en/books.html</loc>
   </url>
   <url>
     <loc>https://prosost.github.io/ProntoSoccorsoStudenti/en/physics.html</loc>
-  </url>
-  <url>
-    <loc>https://prosost.github.io/ProntoSoccorsoStudenti/en/superheroes.html</loc>
   </url>
   <url>
     <loc>https://prosost.github.io/ProntoSoccorsoStudenti/en/toons/classic-cartoons-collections-in-sketch.html</loc>
@@ -985,6 +991,9 @@
     <loc>https://prosost.github.io/ProntoSoccorsoStudenti/en/physics/mit-pssc-physics-films-classic.html</loc>
   </url>
   <url>
+    <loc>https://prosost.github.io/ProntoSoccorsoStudenti/en/physics/mit-pssc-physics-films-classic/mGE271TF9-Q.html</loc>
+  </url>
+  <url>
     <loc>https://prosost.github.io/ProntoSoccorsoStudenti/en/physics/mit-pssc-physics-films-classic/wUV1wydU8iQ.html</loc>
   </url>
   <url>
@@ -1076,6 +1085,9 @@
   </url>
   <url>
     <loc>https://prosost.github.io/ProntoSoccorsoStudenti/en/superheroes/adventures-of-superman-19401951-classic.html</loc>
+  </url>
+  <url>
+    <loc>https://prosost.github.io/ProntoSoccorsoStudenti/en/superheroes/adventures-of-superman-19401951-classic/enmrvV9r6ek.html</loc>
   </url>
   <url>
     <loc>https://prosost.github.io/ProntoSoccorsoStudenti/en/superheroes/adventures-of-superman-19401951-classic/quDtkisHWW4.html</loc>
