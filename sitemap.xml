@@ -10,25 +10,7 @@
     <loc>https://prosost.github.io/ProntoSoccorsoStudenti/en/index.html</loc>
   </url>
   <url>
-    <loc>https://prosost.github.io/ProntoSoccorsoStudenti/it/libri.html</loc>
-  </url>
-  <url>
-    <loc>https://prosost.github.io/ProntoSoccorsoStudenti/it/fisica.html</loc>
-  </url>
-  <url>
-    <loc>https://prosost.github.io/ProntoSoccorsoStudenti/it/storia.html</loc>
-  </url>
-  <url>
-    <loc>https://prosost.github.io/ProntoSoccorsoStudenti/it/physics.html</loc>
-  </url>
-  <url>
     <loc>https://prosost.github.io/ProntoSoccorsoStudenti/it/matematica.html</loc>
-  </url>
-  <url>
-    <loc>https://prosost.github.io/ProntoSoccorsoStudenti/it/pillole.html</loc>
-  </url>
-  <url>
-    <loc>https://prosost.github.io/ProntoSoccorsoStudenti/it/old-time-radio.html</loc>
   </url>
   <url>
     <loc>https://prosost.github.io/ProntoSoccorsoStudenti/it/comics.html</loc>
@@ -37,7 +19,25 @@
     <loc>https://prosost.github.io/ProntoSoccorsoStudenti/it/superheroes.html</loc>
   </url>
   <url>
+    <loc>https://prosost.github.io/ProntoSoccorsoStudenti/it/physics.html</loc>
+  </url>
+  <url>
+    <loc>https://prosost.github.io/ProntoSoccorsoStudenti/it/fisica.html</loc>
+  </url>
+  <url>
     <loc>https://prosost.github.io/ProntoSoccorsoStudenti/it/books.html</loc>
+  </url>
+  <url>
+    <loc>https://prosost.github.io/ProntoSoccorsoStudenti/it/pillole.html</loc>
+  </url>
+  <url>
+    <loc>https://prosost.github.io/ProntoSoccorsoStudenti/it/old-time-radio.html</loc>
+  </url>
+  <url>
+    <loc>https://prosost.github.io/ProntoSoccorsoStudenti/it/libri.html</loc>
+  </url>
+  <url>
+    <loc>https://prosost.github.io/ProntoSoccorsoStudenti/it/storia.html</loc>
   </url>
   <url>
     <loc>https://prosost.github.io/ProntoSoccorsoStudenti/it/toons.html</loc>
@@ -577,6 +577,15 @@
     <loc>https://prosost.github.io/ProntoSoccorsoStudenti/it/toons/merrie-melodies-cartoons-public-domain/F2mQuLRJaBs.html</loc>
   </url>
   <url>
+    <loc>https://prosost.github.io/ProntoSoccorsoStudenti/it/toons/merrie-melodies-cartoons-public-domain/jJxwScZiIMY.html</loc>
+  </url>
+  <url>
+    <loc>https://prosost.github.io/ProntoSoccorsoStudenti/it/toons/merrie-melodies-cartoons-public-domain/K7XjnS0unZM.html</loc>
+  </url>
+  <url>
+    <loc>https://prosost.github.io/ProntoSoccorsoStudenti/it/toons/merrie-melodies-cartoons-public-domain/OcKQwA5MpTU.html</loc>
+  </url>
+  <url>
     <loc>https://prosost.github.io/ProntoSoccorsoStudenti/it/toons/merrie-melodies-cartoons-public-domain/pqCgDpjJCcE.html</loc>
   </url>
   <url>
@@ -584,6 +593,9 @@
   </url>
   <url>
     <loc>https://prosost.github.io/ProntoSoccorsoStudenti/it/toons/merrie-melodies-cartoons-public-domain/TSSWIzMztSo.html</loc>
+  </url>
+  <url>
+    <loc>https://prosost.github.io/ProntoSoccorsoStudenti/it/toons/merrie-melodies-cartoons-public-domain/xp67uWq-iWw.html</loc>
   </url>
   <url>
     <loc>https://prosost.github.io/ProntoSoccorsoStudenti/it/toons/merrie-melodies-cartoons-public-domain/YD3g05NeJMg.html</loc>
@@ -661,6 +673,9 @@
     <loc>https://prosost.github.io/ProntoSoccorsoStudenti/it/pillole/pillole-curiosita/nKxTfZarcvc.html</loc>
   </url>
   <url>
+    <loc>https://prosost.github.io/ProntoSoccorsoStudenti/it/pillole/pillole-curiosita/oG16McLlNGw.html</loc>
+  </url>
+  <url>
     <loc>https://prosost.github.io/ProntoSoccorsoStudenti/it/pillole/pillole-curiosita/QSqsRJPuOGw.html</loc>
   </url>
   <url>
@@ -671,6 +686,9 @@
   </url>
   <url>
     <loc>https://prosost.github.io/ProntoSoccorsoStudenti/it/pillole/pillole-curiosita/ZTxJvFBXfBk.html</loc>
+  </url>
+  <url>
+    <loc>https://prosost.github.io/ProntoSoccorsoStudenti/it/pillole/pillole-curiosita/_ArNNJ-D9kc.html</loc>
   </url>
   <url>
     <loc>https://prosost.github.io/ProntoSoccorsoStudenti/it/pillole/pillole-curiosita/_KHSzKDSrpg.html</loc>
@@ -698,6 +716,9 @@
   </url>
   <url>
     <loc>https://prosost.github.io/ProntoSoccorsoStudenti/it/storia/pillole-storia/XOAR1PJwY2g.html</loc>
+  </url>
+  <url>
+    <loc>https://prosost.github.io/ProntoSoccorsoStudenti/it/storia/pillole-storia/_ArNNJ-D9kc.html</loc>
   </url>
   <url>
     <loc>https://prosost.github.io/ProntoSoccorsoStudenti/it/books/read-along-audiobook-adventures-of.html</loc>
@@ -883,19 +904,19 @@
     <loc>https://prosost.github.io/ProntoSoccorsoStudenti/it/matematica/matematica-problemi-maturita-svolti-passo/QNE5HzY6bAM.html</loc>
   </url>
   <url>
-    <loc>https://prosost.github.io/ProntoSoccorsoStudenti/en/physics.html</loc>
-  </url>
-  <url>
-    <loc>https://prosost.github.io/ProntoSoccorsoStudenti/en/old-time-radio.html</loc>
-  </url>
-  <url>
     <loc>https://prosost.github.io/ProntoSoccorsoStudenti/en/comics.html</loc>
   </url>
   <url>
     <loc>https://prosost.github.io/ProntoSoccorsoStudenti/en/superheroes.html</loc>
   </url>
   <url>
+    <loc>https://prosost.github.io/ProntoSoccorsoStudenti/en/physics.html</loc>
+  </url>
+  <url>
     <loc>https://prosost.github.io/ProntoSoccorsoStudenti/en/books.html</loc>
+  </url>
+  <url>
+    <loc>https://prosost.github.io/ProntoSoccorsoStudenti/en/old-time-radio.html</loc>
   </url>
   <url>
     <loc>https://prosost.github.io/ProntoSoccorsoStudenti/en/toons.html</loc>
@@ -1033,6 +1054,15 @@
     <loc>https://prosost.github.io/ProntoSoccorsoStudenti/en/toons/merrie-melodies-cartoons-public-domain/F2mQuLRJaBs.html</loc>
   </url>
   <url>
+    <loc>https://prosost.github.io/ProntoSoccorsoStudenti/en/toons/merrie-melodies-cartoons-public-domain/jJxwScZiIMY.html</loc>
+  </url>
+  <url>
+    <loc>https://prosost.github.io/ProntoSoccorsoStudenti/en/toons/merrie-melodies-cartoons-public-domain/K7XjnS0unZM.html</loc>
+  </url>
+  <url>
+    <loc>https://prosost.github.io/ProntoSoccorsoStudenti/en/toons/merrie-melodies-cartoons-public-domain/OcKQwA5MpTU.html</loc>
+  </url>
+  <url>
     <loc>https://prosost.github.io/ProntoSoccorsoStudenti/en/toons/merrie-melodies-cartoons-public-domain/pqCgDpjJCcE.html</loc>
   </url>
   <url>
@@ -1040,6 +1070,9 @@
   </url>
   <url>
     <loc>https://prosost.github.io/ProntoSoccorsoStudenti/en/toons/merrie-melodies-cartoons-public-domain/TSSWIzMztSo.html</loc>
+  </url>
+  <url>
+    <loc>https://prosost.github.io/ProntoSoccorsoStudenti/en/toons/merrie-melodies-cartoons-public-domain/xp67uWq-iWw.html</loc>
   </url>
   <url>
     <loc>https://prosost.github.io/ProntoSoccorsoStudenti/en/toons/merrie-melodies-cartoons-public-domain/YD3g05NeJMg.html</loc>
