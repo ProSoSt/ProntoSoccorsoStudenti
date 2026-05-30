@@ -10,37 +10,37 @@
     <loc>https://prosost.github.io/ProntoSoccorsoStudenti/en/index.html</loc>
   </url>
   <url>
-    <loc>https://prosost.github.io/ProntoSoccorsoStudenti/it/fisica.html</loc>
-  </url>
-  <url>
-    <loc>https://prosost.github.io/ProntoSoccorsoStudenti/it/matematica.html</loc>
-  </url>
-  <url>
     <loc>https://prosost.github.io/ProntoSoccorsoStudenti/it/toons.html</loc>
   </url>
   <url>
-    <loc>https://prosost.github.io/ProntoSoccorsoStudenti/it/libri.html</loc>
-  </url>
-  <url>
-    <loc>https://prosost.github.io/ProntoSoccorsoStudenti/it/old-time-radio.html</loc>
+    <loc>https://prosost.github.io/ProntoSoccorsoStudenti/it/pillole.html</loc>
   </url>
   <url>
     <loc>https://prosost.github.io/ProntoSoccorsoStudenti/it/books.html</loc>
   </url>
   <url>
-    <loc>https://prosost.github.io/ProntoSoccorsoStudenti/it/physics.html</loc>
-  </url>
-  <url>
-    <loc>https://prosost.github.io/ProntoSoccorsoStudenti/it/comics.html</loc>
-  </url>
-  <url>
     <loc>https://prosost.github.io/ProntoSoccorsoStudenti/it/storia.html</loc>
+  </url>
+  <url>
+    <loc>https://prosost.github.io/ProntoSoccorsoStudenti/it/matematica.html</loc>
   </url>
   <url>
     <loc>https://prosost.github.io/ProntoSoccorsoStudenti/it/superheroes.html</loc>
   </url>
   <url>
-    <loc>https://prosost.github.io/ProntoSoccorsoStudenti/it/pillole.html</loc>
+    <loc>https://prosost.github.io/ProntoSoccorsoStudenti/it/old-time-radio.html</loc>
+  </url>
+  <url>
+    <loc>https://prosost.github.io/ProntoSoccorsoStudenti/it/physics.html</loc>
+  </url>
+  <url>
+    <loc>https://prosost.github.io/ProntoSoccorsoStudenti/it/libri.html</loc>
+  </url>
+  <url>
+    <loc>https://prosost.github.io/ProntoSoccorsoStudenti/it/comics.html</loc>
+  </url>
+  <url>
+    <loc>https://prosost.github.io/ProntoSoccorsoStudenti/it/fisica.html</loc>
   </url>
   <url>
     <loc>https://prosost.github.io/ProntoSoccorsoStudenti/it/storia/appunti-storia.html</loc>
@@ -388,6 +388,12 @@
     <loc>https://prosost.github.io/ProntoSoccorsoStudenti/it/fisica/fisica-tutto-d-un-fiato/WMurstD7tW0.html</loc>
   </url>
   <url>
+    <loc>https://prosost.github.io/ProntoSoccorsoStudenti/it/superheroes/flash-gordon-conquers-universe-1940.html</loc>
+  </url>
+  <url>
+    <loc>https://prosost.github.io/ProntoSoccorsoStudenti/it/superheroes/flash-gordon-conquers-universe-1940/BoS3WU_YJcY.html</loc>
+  </url>
+  <url>
     <loc>https://prosost.github.io/ProntoSoccorsoStudenti/it/libri/libri-in-5-minuti.html</loc>
   </url>
   <url>
@@ -638,6 +644,27 @@
   </url>
   <url>
     <loc>https://prosost.github.io/ProntoSoccorsoStudenti/it/toons/merrie-melodies-public-domain-collection/XdqtLvUai7k.html</loc>
+  </url>
+  <url>
+    <loc>https://prosost.github.io/ProntoSoccorsoStudenti/it/toons/mickey-mouse-public-domain-cartoons.html</loc>
+  </url>
+  <url>
+    <loc>https://prosost.github.io/ProntoSoccorsoStudenti/it/toons/mickey-mouse-public-domain-cartoons/5bghmAypc4w.html</loc>
+  </url>
+  <url>
+    <loc>https://prosost.github.io/ProntoSoccorsoStudenti/it/toons/mickey-mouse-public-domain-cartoons/7PGmJUm8MF8.html</loc>
+  </url>
+  <url>
+    <loc>https://prosost.github.io/ProntoSoccorsoStudenti/it/toons/mickey-mouse-public-domain-cartoons/96aFqFQkh4c.html</loc>
+  </url>
+  <url>
+    <loc>https://prosost.github.io/ProntoSoccorsoStudenti/it/toons/mickey-mouse-public-domain-cartoons/dpTzTLxVHts.html</loc>
+  </url>
+  <url>
+    <loc>https://prosost.github.io/ProntoSoccorsoStudenti/it/toons/mickey-mouse-public-domain-cartoons/hHeUO_T0HqA.html</loc>
+  </url>
+  <url>
+    <loc>https://prosost.github.io/ProntoSoccorsoStudenti/it/toons/mickey-mouse-public-domain-cartoons/X5kXXUXJl5E.html</loc>
   </url>
   <url>
     <loc>https://prosost.github.io/ProntoSoccorsoStudenti/it/physics/mit-pssc-physics-films-classic.html</loc>
@@ -958,19 +985,19 @@
     <loc>https://prosost.github.io/ProntoSoccorsoStudenti/en/toons.html</loc>
   </url>
   <url>
-    <loc>https://prosost.github.io/ProntoSoccorsoStudenti/en/old-time-radio.html</loc>
+    <loc>https://prosost.github.io/ProntoSoccorsoStudenti/en/superheroes.html</loc>
   </url>
   <url>
-    <loc>https://prosost.github.io/ProntoSoccorsoStudenti/en/books.html</loc>
+    <loc>https://prosost.github.io/ProntoSoccorsoStudenti/en/old-time-radio.html</loc>
   </url>
   <url>
     <loc>https://prosost.github.io/ProntoSoccorsoStudenti/en/physics.html</loc>
   </url>
   <url>
-    <loc>https://prosost.github.io/ProntoSoccorsoStudenti/en/comics.html</loc>
+    <loc>https://prosost.github.io/ProntoSoccorsoStudenti/en/books.html</loc>
   </url>
   <url>
-    <loc>https://prosost.github.io/ProntoSoccorsoStudenti/en/superheroes.html</loc>
+    <loc>https://prosost.github.io/ProntoSoccorsoStudenti/en/comics.html</loc>
   </url>
   <url>
     <loc>https://prosost.github.io/ProntoSoccorsoStudenti/en/toons/classic-cartoons-collections-in-sketch.html</loc>
@@ -1102,6 +1129,12 @@
     <loc>https://prosost.github.io/ProntoSoccorsoStudenti/en/toons/classic-cartoons-in-sketch-style/YD3g05NeJMg.html</loc>
   </url>
   <url>
+    <loc>https://prosost.github.io/ProntoSoccorsoStudenti/en/superheroes/flash-gordon-conquers-universe-1940.html</loc>
+  </url>
+  <url>
+    <loc>https://prosost.github.io/ProntoSoccorsoStudenti/en/superheroes/flash-gordon-conquers-universe-1940/BoS3WU_YJcY.html</loc>
+  </url>
+  <url>
     <loc>https://prosost.github.io/ProntoSoccorsoStudenti/en/toons/looney-tunes-public-domain-collection.html</loc>
   </url>
   <url>
@@ -1160,6 +1193,27 @@
   </url>
   <url>
     <loc>https://prosost.github.io/ProntoSoccorsoStudenti/en/toons/merrie-melodies-public-domain-collection/XdqtLvUai7k.html</loc>
+  </url>
+  <url>
+    <loc>https://prosost.github.io/ProntoSoccorsoStudenti/en/toons/mickey-mouse-public-domain-cartoons.html</loc>
+  </url>
+  <url>
+    <loc>https://prosost.github.io/ProntoSoccorsoStudenti/en/toons/mickey-mouse-public-domain-cartoons/5bghmAypc4w.html</loc>
+  </url>
+  <url>
+    <loc>https://prosost.github.io/ProntoSoccorsoStudenti/en/toons/mickey-mouse-public-domain-cartoons/7PGmJUm8MF8.html</loc>
+  </url>
+  <url>
+    <loc>https://prosost.github.io/ProntoSoccorsoStudenti/en/toons/mickey-mouse-public-domain-cartoons/96aFqFQkh4c.html</loc>
+  </url>
+  <url>
+    <loc>https://prosost.github.io/ProntoSoccorsoStudenti/en/toons/mickey-mouse-public-domain-cartoons/dpTzTLxVHts.html</loc>
+  </url>
+  <url>
+    <loc>https://prosost.github.io/ProntoSoccorsoStudenti/en/toons/mickey-mouse-public-domain-cartoons/hHeUO_T0HqA.html</loc>
+  </url>
+  <url>
+    <loc>https://prosost.github.io/ProntoSoccorsoStudenti/en/toons/mickey-mouse-public-domain-cartoons/X5kXXUXJl5E.html</loc>
   </url>
   <url>
     <loc>https://prosost.github.io/ProntoSoccorsoStudenti/en/physics/mit-pssc-physics-films-classic.html</loc>
