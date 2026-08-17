@@ -10,16 +10,19 @@
     <loc>https://prosost.github.io/ProntoSoccorsoStudenti/en/index.html</loc>
   </url>
   <url>
-    <loc>https://prosost.github.io/ProntoSoccorsoStudenti/it/pillole.html</loc>
+    <loc>https://prosost.github.io/ProntoSoccorsoStudenti/it/toons.html</loc>
+  </url>
+  <url>
+    <loc>https://prosost.github.io/ProntoSoccorsoStudenti/it/fisica.html</loc>
   </url>
   <url>
     <loc>https://prosost.github.io/ProntoSoccorsoStudenti/it/physics.html</loc>
   </url>
   <url>
-    <loc>https://prosost.github.io/ProntoSoccorsoStudenti/it/libri.html</loc>
+    <loc>https://prosost.github.io/ProntoSoccorsoStudenti/it/superheroes.html</loc>
   </url>
   <url>
-    <loc>https://prosost.github.io/ProntoSoccorsoStudenti/it/old-time-radio.html</loc>
+    <loc>https://prosost.github.io/ProntoSoccorsoStudenti/it/comics.html</loc>
   </url>
   <url>
     <loc>https://prosost.github.io/ProntoSoccorsoStudenti/it/books.html</loc>
@@ -28,19 +31,16 @@
     <loc>https://prosost.github.io/ProntoSoccorsoStudenti/it/storia.html</loc>
   </url>
   <url>
-    <loc>https://prosost.github.io/ProntoSoccorsoStudenti/it/comics.html</loc>
+    <loc>https://prosost.github.io/ProntoSoccorsoStudenti/it/old-time-radio.html</loc>
   </url>
   <url>
-    <loc>https://prosost.github.io/ProntoSoccorsoStudenti/it/fisica.html</loc>
+    <loc>https://prosost.github.io/ProntoSoccorsoStudenti/it/pillole.html</loc>
   </url>
   <url>
     <loc>https://prosost.github.io/ProntoSoccorsoStudenti/it/matematica.html</loc>
   </url>
   <url>
-    <loc>https://prosost.github.io/ProntoSoccorsoStudenti/it/toons.html</loc>
-  </url>
-  <url>
-    <loc>https://prosost.github.io/ProntoSoccorsoStudenti/it/superheroes.html</loc>
+    <loc>https://prosost.github.io/ProntoSoccorsoStudenti/it/libri.html</loc>
   </url>
   <url>
     <loc>https://prosost.github.io/ProntoSoccorsoStudenti/it/storia/appunti-storia.html</loc>
@@ -296,6 +296,21 @@
   </url>
   <url>
     <loc>https://prosost.github.io/ProntoSoccorsoStudenti/it/toons/classic-cartoons-in-sketch-style/yzscU_rVTNM.html</loc>
+  </url>
+  <url>
+    <loc>https://prosost.github.io/ProntoSoccorsoStudenti/it/fisica/mit-pssc-corso-fisica-in.html</loc>
+  </url>
+  <url>
+    <loc>https://prosost.github.io/ProntoSoccorsoStudenti/it/fisica/mit-pssc-corso-fisica-in/5JtoEzJ9gXA.html</loc>
+  </url>
+  <url>
+    <loc>https://prosost.github.io/ProntoSoccorsoStudenti/it/fisica/mit-pssc-corso-fisica-in/b3c33tHlc58.html</loc>
+  </url>
+  <url>
+    <loc>https://prosost.github.io/ProntoSoccorsoStudenti/it/fisica/mit-pssc-corso-fisica-in/PEE6CQ64BPY.html</loc>
+  </url>
+  <url>
+    <loc>https://prosost.github.io/ProntoSoccorsoStudenti/it/fisica/mit-pssc-corso-fisica-in/Xzj9RqUcvC0.html</loc>
   </url>
   <url>
     <loc>https://prosost.github.io/ProntoSoccorsoStudenti/it/fisica/fisica-corso.html</loc>
@@ -1072,22 +1087,22 @@
     <loc>https://prosost.github.io/ProntoSoccorsoStudenti/it/matematica/matematica-problemi-maturita-svolti-passo/QNE5HzY6bAM.html</loc>
   </url>
   <url>
+    <loc>https://prosost.github.io/ProntoSoccorsoStudenti/en/toons.html</loc>
+  </url>
+  <url>
     <loc>https://prosost.github.io/ProntoSoccorsoStudenti/en/physics.html</loc>
   </url>
   <url>
-    <loc>https://prosost.github.io/ProntoSoccorsoStudenti/en/old-time-radio.html</loc>
-  </url>
-  <url>
-    <loc>https://prosost.github.io/ProntoSoccorsoStudenti/en/books.html</loc>
+    <loc>https://prosost.github.io/ProntoSoccorsoStudenti/en/superheroes.html</loc>
   </url>
   <url>
     <loc>https://prosost.github.io/ProntoSoccorsoStudenti/en/comics.html</loc>
   </url>
   <url>
-    <loc>https://prosost.github.io/ProntoSoccorsoStudenti/en/toons.html</loc>
+    <loc>https://prosost.github.io/ProntoSoccorsoStudenti/en/books.html</loc>
   </url>
   <url>
-    <loc>https://prosost.github.io/ProntoSoccorsoStudenti/en/superheroes.html</loc>
+    <loc>https://prosost.github.io/ProntoSoccorsoStudenti/en/old-time-radio.html</loc>
   </url>
   <url>
     <loc>https://prosost.github.io/ProntoSoccorsoStudenti/en/toons/classic-cartoons-collections-in-sketch.html</loc>
