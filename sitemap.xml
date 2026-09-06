@@ -10,21 +10,6 @@
     <loc>https://prosost.github.io/ProntoSoccorsoStudenti/en/index.html</loc>
   </url>
   <url>
-    <loc>https://prosost.github.io/ProntoSoccorsoStudenti/it/matematica.html</loc>
-  </url>
-  <url>
-    <loc>https://prosost.github.io/ProntoSoccorsoStudenti/it/storia.html</loc>
-  </url>
-  <url>
-    <loc>https://prosost.github.io/ProntoSoccorsoStudenti/it/comics.html</loc>
-  </url>
-  <url>
-    <loc>https://prosost.github.io/ProntoSoccorsoStudenti/it/books.html</loc>
-  </url>
-  <url>
-    <loc>https://prosost.github.io/ProntoSoccorsoStudenti/it/old-time-radio.html</loc>
-  </url>
-  <url>
     <loc>https://prosost.github.io/ProntoSoccorsoStudenti/it/fisica.html</loc>
   </url>
   <url>
@@ -34,13 +19,28 @@
     <loc>https://prosost.github.io/ProntoSoccorsoStudenti/it/physics.html</loc>
   </url>
   <url>
-    <loc>https://prosost.github.io/ProntoSoccorsoStudenti/it/pillole.html</loc>
+    <loc>https://prosost.github.io/ProntoSoccorsoStudenti/it/books.html</loc>
+  </url>
+  <url>
+    <loc>https://prosost.github.io/ProntoSoccorsoStudenti/it/superheroes.html</loc>
+  </url>
+  <url>
+    <loc>https://prosost.github.io/ProntoSoccorsoStudenti/it/matematica.html</loc>
   </url>
   <url>
     <loc>https://prosost.github.io/ProntoSoccorsoStudenti/it/toons.html</loc>
   </url>
   <url>
-    <loc>https://prosost.github.io/ProntoSoccorsoStudenti/it/superheroes.html</loc>
+    <loc>https://prosost.github.io/ProntoSoccorsoStudenti/it/pillole.html</loc>
+  </url>
+  <url>
+    <loc>https://prosost.github.io/ProntoSoccorsoStudenti/it/storia.html</loc>
+  </url>
+  <url>
+    <loc>https://prosost.github.io/ProntoSoccorsoStudenti/it/old-time-radio.html</loc>
+  </url>
+  <url>
+    <loc>https://prosost.github.io/ProntoSoccorsoStudenti/it/comics.html</loc>
   </url>
   <url>
     <loc>https://prosost.github.io/ProntoSoccorsoStudenti/it/storia/appunti-storia.html</loc>
@@ -262,6 +262,12 @@
     <loc>https://prosost.github.io/ProntoSoccorsoStudenti/it/toons/classic-cartoons-in-sketch-style/qoXyRfDw7ls.html</loc>
   </url>
   <url>
+    <loc>https://prosost.github.io/ProntoSoccorsoStudenti/it/toons/classic-cartoons-in-sketch-style/QsOLkWdZBWM.html</loc>
+  </url>
+  <url>
+    <loc>https://prosost.github.io/ProntoSoccorsoStudenti/it/toons/classic-cartoons-in-sketch-style/RcBB7CZ9DZg.html</loc>
+  </url>
+  <url>
     <loc>https://prosost.github.io/ProntoSoccorsoStudenti/it/toons/classic-cartoons-in-sketch-style/rdXPHVkV87E.html</loc>
   </url>
   <url>
@@ -307,10 +313,16 @@
     <loc>https://prosost.github.io/ProntoSoccorsoStudenti/it/fisica/mit-pssc-corso-fisica-in/5JtoEzJ9gXA.html</loc>
   </url>
   <url>
+    <loc>https://prosost.github.io/ProntoSoccorsoStudenti/it/fisica/mit-pssc-corso-fisica-in/76EKwm6QZVA.html</loc>
+  </url>
+  <url>
     <loc>https://prosost.github.io/ProntoSoccorsoStudenti/it/fisica/mit-pssc-corso-fisica-in/b3c33tHlc58.html</loc>
   </url>
   <url>
     <loc>https://prosost.github.io/ProntoSoccorsoStudenti/it/fisica/mit-pssc-corso-fisica-in/PEE6CQ64BPY.html</loc>
+  </url>
+  <url>
+    <loc>https://prosost.github.io/ProntoSoccorsoStudenti/it/fisica/mit-pssc-corso-fisica-in/U5IRi_ydn0k.html</loc>
   </url>
   <url>
     <loc>https://prosost.github.io/ProntoSoccorsoStudenti/it/fisica/mit-pssc-corso-fisica-in/Xzj9RqUcvC0.html</loc>
@@ -784,6 +796,9 @@
     <loc>https://prosost.github.io/ProntoSoccorsoStudenti/it/toons/popeye-public-domain-collection-pencil.html</loc>
   </url>
   <url>
+    <loc>https://prosost.github.io/ProntoSoccorsoStudenti/it/toons/popeye-public-domain-collection-pencil/4PPAqlGDzO4.html</loc>
+  </url>
+  <url>
     <loc>https://prosost.github.io/ProntoSoccorsoStudenti/it/toons/popeye-public-domain-collection-pencil/5oZJzoVihR4.html</loc>
   </url>
   <url>
@@ -802,6 +817,9 @@
     <loc>https://prosost.github.io/ProntoSoccorsoStudenti/it/toons/popeye-public-domain-collection-pencil/PoHpTBJkGW8.html</loc>
   </url>
   <url>
+    <loc>https://prosost.github.io/ProntoSoccorsoStudenti/it/toons/popeye-public-domain-collection-pencil/qoXyRfDw7ls.html</loc>
+  </url>
+  <url>
     <loc>https://prosost.github.io/ProntoSoccorsoStudenti/it/toons/betty-boop-public-domain-collection.html</loc>
   </url>
   <url>
@@ -809,6 +827,12 @@
   </url>
   <url>
     <loc>https://prosost.github.io/ProntoSoccorsoStudenti/it/toons/betty-boop-public-domain-collection/rdXPHVkV87E.html</loc>
+  </url>
+  <url>
+    <loc>https://prosost.github.io/ProntoSoccorsoStudenti/it/toons/betty-boop-public-domain-collection/TI9hoJEMROI.html</loc>
+  </url>
+  <url>
+    <loc>https://prosost.github.io/ProntoSoccorsoStudenti/it/toons/betty-boop-public-domain-collection/wY225tjHbWc.html</loc>
   </url>
   <url>
     <loc>https://prosost.github.io/ProntoSoccorsoStudenti/it/toons/betty-boop-public-domain-collection/yzscU_rVTNM.html</loc>
@@ -1135,22 +1159,22 @@
     <loc>https://prosost.github.io/ProntoSoccorsoStudenti/it/matematica/matematica-problemi-maturita-svolti-passo/QNE5HzY6bAM.html</loc>
   </url>
   <url>
-    <loc>https://prosost.github.io/ProntoSoccorsoStudenti/en/comics.html</loc>
+    <loc>https://prosost.github.io/ProntoSoccorsoStudenti/en/physics.html</loc>
   </url>
   <url>
     <loc>https://prosost.github.io/ProntoSoccorsoStudenti/en/books.html</loc>
   </url>
   <url>
-    <loc>https://prosost.github.io/ProntoSoccorsoStudenti/en/old-time-radio.html</loc>
-  </url>
-  <url>
-    <loc>https://prosost.github.io/ProntoSoccorsoStudenti/en/physics.html</loc>
+    <loc>https://prosost.github.io/ProntoSoccorsoStudenti/en/superheroes.html</loc>
   </url>
   <url>
     <loc>https://prosost.github.io/ProntoSoccorsoStudenti/en/toons.html</loc>
   </url>
   <url>
-    <loc>https://prosost.github.io/ProntoSoccorsoStudenti/en/superheroes.html</loc>
+    <loc>https://prosost.github.io/ProntoSoccorsoStudenti/en/old-time-radio.html</loc>
+  </url>
+  <url>
+    <loc>https://prosost.github.io/ProntoSoccorsoStudenti/en/comics.html</loc>
   </url>
   <url>
     <loc>https://prosost.github.io/ProntoSoccorsoStudenti/en/toons/classic-cartoons-collections-in-sketch.html</loc>
@@ -1318,6 +1342,12 @@
     <loc>https://prosost.github.io/ProntoSoccorsoStudenti/en/toons/classic-cartoons-in-sketch-style/qoXyRfDw7ls.html</loc>
   </url>
   <url>
+    <loc>https://prosost.github.io/ProntoSoccorsoStudenti/en/toons/classic-cartoons-in-sketch-style/QsOLkWdZBWM.html</loc>
+  </url>
+  <url>
+    <loc>https://prosost.github.io/ProntoSoccorsoStudenti/en/toons/classic-cartoons-in-sketch-style/RcBB7CZ9DZg.html</loc>
+  </url>
+  <url>
     <loc>https://prosost.github.io/ProntoSoccorsoStudenti/en/toons/classic-cartoons-in-sketch-style/rdXPHVkV87E.html</loc>
   </url>
   <url>
@@ -1465,6 +1495,9 @@
     <loc>https://prosost.github.io/ProntoSoccorsoStudenti/en/toons/popeye-public-domain-collection-pencil.html</loc>
   </url>
   <url>
+    <loc>https://prosost.github.io/ProntoSoccorsoStudenti/en/toons/popeye-public-domain-collection-pencil/4PPAqlGDzO4.html</loc>
+  </url>
+  <url>
     <loc>https://prosost.github.io/ProntoSoccorsoStudenti/en/toons/popeye-public-domain-collection-pencil/5oZJzoVihR4.html</loc>
   </url>
   <url>
@@ -1483,6 +1516,9 @@
     <loc>https://prosost.github.io/ProntoSoccorsoStudenti/en/toons/popeye-public-domain-collection-pencil/PoHpTBJkGW8.html</loc>
   </url>
   <url>
+    <loc>https://prosost.github.io/ProntoSoccorsoStudenti/en/toons/popeye-public-domain-collection-pencil/qoXyRfDw7ls.html</loc>
+  </url>
+  <url>
     <loc>https://prosost.github.io/ProntoSoccorsoStudenti/en/toons/betty-boop-public-domain-collection.html</loc>
   </url>
   <url>
@@ -1490,6 +1526,12 @@
   </url>
   <url>
     <loc>https://prosost.github.io/ProntoSoccorsoStudenti/en/toons/betty-boop-public-domain-collection/rdXPHVkV87E.html</loc>
+  </url>
+  <url>
+    <loc>https://prosost.github.io/ProntoSoccorsoStudenti/en/toons/betty-boop-public-domain-collection/TI9hoJEMROI.html</loc>
+  </url>
+  <url>
+    <loc>https://prosost.github.io/ProntoSoccorsoStudenti/en/toons/betty-boop-public-domain-collection/wY225tjHbWc.html</loc>
   </url>
   <url>
     <loc>https://prosost.github.io/ProntoSoccorsoStudenti/en/toons/betty-boop-public-domain-collection/yzscU_rVTNM.html</loc>
